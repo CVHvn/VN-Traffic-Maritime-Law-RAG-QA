@@ -1,0 +1,439 @@
+#question_prompt:
+
+
+ Using the information contained in the context,
+give a comprehensive answer to the question.
+Respond only to the question asked, response should be concise and relevant to the question.
+Provide the number of the source document when relevant.
+If the answer cannot be deduced from the context, do not give an answer.
+
+Context:
+Điều 22. Xử phạt các hành vi vi phạm quy định về điều kiện của người điều khiển xe máy chuyên dùng
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Người điều khiển xe máy chuyên dùng không đúng độ tuổi hoặc tuổi không phù hợp với ngành nghề theo quy định;
+b) Người điều khiển xe máy chuyên dùng không mang theo bằng (hoặc chứng chỉ) điều khiển, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ;
+c) Người điều khiển xe máy chuyên dùng không mang theo Giấy đăng ký xe;
+d) Người điều khiển xe máy chuyên dùng không mang theo Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định).
+2. Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe máy chuyên dùng không có bằng (hoặc chứng chỉ) điều khiển, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ.
+Mục 5. VI PHẠM QUY ĐỊNH VỀ VẬN TẢI ĐƯỜNG BỘ
+Điều 23. Xử phạt người điều khiển xe ô tô chở hành khách, ô tô chở người và các loại xe tương tự xe ô tô chở hành khách, chở người vi phạm quy định về vận tải đường bộ
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Không hướng dẫn hành khách đứng, nằm, ngồi đúng vị trí quy định trong xe;
+b) Không mặc đồng phục, không đeo thẻ tên của lái xe theo quy định.
+2. Phạt tiền từ 400.000 đồng đến 600.000 đồng trên mỗi người vượt quá quy định được phép chở của phương tiện nhưng tổng mức phạt tiền tối đa không vượt quá 75.000.000 đồng[61] đối với người điều khiển xe ô tô chở hành khách, ô tô chở người (trừ xe buýt) thực hiện hành vi vi phạm: Chở quá từ 02 người trở lên trên xe đến 9 chỗ, chở quá từ 03 người trở lên trên xe 10 chỗ đến xe 15 chỗ, chở quá từ 04 người trở lên trên xe 16 chỗ đến xe 30 chỗ, chở quá từ 05 người trở lên trên xe trên 30 chỗ, trừ các hành vi vi phạm quy định tại khoản 4 Điều này.
+3. Phạt tiền từ 600.000 đồng đến 800.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Không đóng cửa lên xuống khi xe đang chạy;
+b) Để người ngồi trên xe khi xe lên, xuống phà, cầu phao hoặc khi xe đang ở trên phà (trừ người già yếu, người bệnh, người khuyết tật);
+c) Không chạy đúng tuyến đường, lịch trình, hành trình vận tải quy định;
+d) Để người mắc võng nằm trên xe hoặc đu bám ở cửa xe, bên ngoài thành xe khi xe đang chạy;
+đ) Sắp xếp, chằng buộc hành lý, hàng hóa không bảo đảm an toàn; để rơi hành lý, hàng hóa trên xe xuống đường; để hàng hóa trong khoang chở hành khách;
+e) Chở hành lý, hàng hóa vượt quá kích thước bao ngoài của xe;
+g) Vận chuyển hàng có mùi hôi thối trên xe chở hành khách;
+h) Điều khiển xe vận chuyển hành khách không có nhân viên phục vụ trên xe đối với những xe quy định phải có nhân viên phục vụ;
+i) Điều khiển xe taxi không có đồng hồ tính tiền cước (đối với loại xe đăng ký sử dụng đồng hồ tính tiền) hoặc có nhưng không đúng quy định hoặc không sử dụng đồng hồ tính tiền cước theo quy định khi chở khách;
+k) Điều khiển xe niêm yết hành trình chạy xe không đúng với hành trình đã được cơ quan có thẩm quyền cấp phép;
+l) Điều khiển xe kinh doanh vận tải hành khách theo tuyến cố định thu tiền vé nhưng không trao vé cho hành khách, thu tiền vé cao hơn quy định;
+m) Điều khiển xe ô tô kinh doanh vận tải không có dây an toàn tại các vị trí ghế ngồi, giường nằm theo quy định (trừ xe buýt nội tỉnh);
+n) Điều khiển xe ô tô kinh doanh vận tải không có hướng dẫn cho hành khách về an toàn giao thông và thoát hiểm khi xảy ra sự cố trên xe theo quy định;
+Điều 6. Xử phạt người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường, trừ các hành vi vi phạm quy định tại điểm c, điểm đ, điểm e, điểm h khoản 2; điểm a, điểm d, điểm g, điểm i, điểm m khoản 3[25]; điểm a, điểm b, điểm c, điểm d, điểm e khoản 4; khoản 5; điểm b khoản 6; điểm a, điểm b khoản 7; điểm d khoản 8 Điều này;
+b) Không có báo hiệu xin vượt trước khi vượt;
+c) Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước hoặc không giữ khoảng cách theo quy định của biển báo hiệu “Cự ly tối thiểu giữa hai xe”;
+d) Chuyển hướng không nhường quyền đi trước cho: Người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+đ) Chuyển hướng không nhường đường cho: Các xe đi ngược chiều; người đi bộ, xe lăn của người khuyết tật đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
+e) Lùi xe mô tô ba bánh không quan sát hoặc không có tín hiệu báo trước;
+g) Chở người ngồi trên xe sử dụng ô (dù);
+h) Không tuân thủ các quy định về nhường đường tại nơi đường giao nhau, trừ các hành vi vi phạm quy định tại điểm b, điểm e khoản 2 Điều này;
+i) Chuyển làn đường không đúng nơi được phép hoặc không có tín hiệu báo trước;
+k) Điều khiển xe chạy dàn hàng ngang từ 03 xe trở lên;
+l) Không sử dụng đèn chiếu sáng trong thời gian từ 19 giờ ngày hôm trước đến 05 giờ ngày hôm sau hoặc khi sương mù, thời tiết xấu hạn chế tầm nhìn;
+m) Tránh xe không đúng quy định; sử dụng đèn chiếu xa khi tránh xe đi ngược chiều; không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật;
+n) Bấm còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau, sử dụng đèn chiếu xa trong đô thị, khu đông dân cư, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định;
+o) Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có Giấy phép của cơ quan có thẩm quyền cấp hoặc có Giấy phép của cơ quan có thẩm quyền cấp nhưng không còn giá trị sử dụng theo quy định;
+p) Quay đầu xe tại nơi không được quay đầu xe, trừ hành vi vi phạm quy định tại điểm d khoản 4 Điều này;
+q) Điều khiển xe chạy dưới tốc độ tối thiểu trên những đoạn đường bộ có quy định tốc độ tối thiểu cho phép.
+2. Phạt tiền từ 300.000 đồng đến 400.000 đồng[26] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường;
+b) Không giảm tốc độ và nhường đường khi điều khiển xe chạy từ trong ngõ, đường nhánh ra đường chính;
+c) Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h;
+d) Điều khiển xe chạy tốc độ thấp mà không đi bên phải phần đường xe chạy gây cản trở giao thông;
+đ) Dừng xe, đỗ xe ở lòng đường đô thị gây cản trở giao thông; tụ tập từ 03 xe trở lên ở lòng đường, trong hầm đường bộ; đỗ, để xe ở lòng đường đô thị, hè phố trái quy định của pháp luật;
+e) Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn; không nhường đường cho xe đi trên đường ưu tiên, đường chính từ bất kỳ hướng nào tới tại nơi đường giao nhau;
+Điều 36. Xử phạt người điều khiển phương tiện đăng ký hoạt động trong Khu kinh tế thương mại đặc biệt, Khu kinh tế cửa khẩu quốc tế
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:
+a) Không có tờ khai phương tiện vận tải đường bộ tạm nhập, tái xuất theo quy định;
+b) Điều khiển xe không có phù hiệu kiểm soát theo quy định hoặc có nhưng đã hết giá trị sử dụng hoặc sử dụng phù hiệu không do cơ quan có thẩm quyền cấp.
+2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe ô tô và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Không có tờ khai phương tiện vận tải đường bộ tạm nhập, tái xuất theo quy định;
+b) Điều khiển xe không có phù hiệu kiểm soát theo quy định hoặc có nhưng đã hết giá trị sử dụng hoặc sử dụng phù hiệu không do cơ quan có thẩm quyền cấp.
+3. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm b khoản 1, điểm b khoản 2 Điều này trường hợp sử dụng phù hiệu đã hết giá trị sử dụng, phù hiệu không do cơ quan có thẩm quyền cấp còn bị tịch thu phù hiệu;
+b) Tái phạm hoặc vi phạm nhiều lần hành vi quy định tại khoản 1, khoản 2 Điều này bị tịch thu phương tiện.
+4. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 1, khoản 2 Điều này còn bị áp dụng biện pháp khắc phục hậu quả: Buộc phải đưa phương tiện quay trở lại Khu kinh tế thương mại đặc biệt, Khu kinh tế cửa khẩu quốc tế.
+Điều 37. Xử phạt các hành vi vi phạm quy định về đào tạo, sát hạch lái xe
+1. Phạt tiền từ 600.000 đồng đến 800.000 đồng đối với giáo viên dạy lái xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Giáo viên dạy thực hành để học viên không có phù hiệu “Học viên tập lái xe” lái xe tập lái hoặc có phù hiệu nhưng không đeo khi lái xe tập lái;
+b) Giáo viên dạy thực hành chở người, hàng trên xe tập lái trái quy định;
+c) Giáo viên dạy thực hành chạy sai tuyến đường trong Giấy phép xe tập lái; không ngồi bên cạnh để bảo trợ tay lái cho học viên thực hành lái xe (kể cả trong sân tập lái và ngoài đường giao thông công cộng);
+d) Không đeo phù hiệu “Giáo viên dạy lái xe” khi giảng dạy;
+đ) Không có giáo án của môn học được phân công giảng dạy theo quy định hoặc có giáo án nhưng không phù hợp với môn được phân công giảng dạy;
+e) Giáo viên dạy thực hành không mang theo Giấy phép xe tập lái hoặc mang theo Giấy phép xe tập lái đã hết giá trị sử dụng.
+2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với cơ sở đào tạo lái xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Sử dụng xe tập lái không có mui che mưa, nắng; không có ghế ngồi gắn chắc chắn trên thùng xe cho người học theo quy định;
+b) Không thực hiện việc ký hợp đồng đào tạo, thanh lý hợp đồng đào tạo với người học lái xe theo quy định hoặc có ký hợp đồng đào tạo, thanh lý hợp đồng đào tạo nhưng không do người học lái xe trực tiếp ký;
+c) Không công khai quy chế tuyển sinh, quản lý đào tạo và mức thu học phí theo quy định;
+d)[118] Tổ chức đào tạo cho học viên chưa có đủ hồ sơ của người học lái xe theo quy định.
+3. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Cơ sở đào tạo lái xe không bố trí giáo viên dạy thực hành ngồi bên cạnh để bảo trợ tay lái cho học viên thực hành lái xe; bố trí giáo viên không đủ tiêu chuẩn để giảng dạy;
+đ) Khoản 9 Điều 11;
+e) Điểm a, điểm b khoản 4; khoản 5; điểm a, điểm b, điểm c khoản 6 Điều 16;
+g) Điểm a, điểm b, điểm c khoản 2 Điều 17;
+h) Điểm b, điểm đ khoản 1; điểm c, điểm d, điểm đ, điểm e khoản 2 Điều 19;
+i) Khoản 1; điểm a khoản 4; khoản 5; khoản 6; khoản 7; khoản 8; khoản 9 Điều 21;
+k) Điểm đ, điểm g, điểm h, điểm k khoản 5; điểm b, điểm e, điểm h khoản 8; điểm c, điểm i khoản 9; điểm b khoản 10 Điều 30;
+l) Điểm b khoản 5 Điều 33.
+2.[183] Để bảo đảm thi hành quyết định xử phạt vi phạm hành chính hoặc để xác minh tình tiết làm căn cứ ra quyết định xử phạt, người có thẩm quyền xử phạt còn có thể quyết định tạm giữ phương tiện, giấy tờ có liên quan đến người điều khiển và phương tiện vi phạm một trong các hành vi quy định tại Nghị định này theo quy định tại khoản 6, khoản 8 Điều 125 của Luật Xử lý vi phạm hành chính (được sửa đổi, bổ sung năm 2020). Khi bị tạm giữ giấy tờ theo quy định tại khoản 6 Điều 125 của Luật Xử lý vi phạm hành chính, nếu quá thời hạn hẹn đến giải quyết vụ việc vi phạm ghi trong biên bản vi phạm hành chính, người vi phạm chưa đến trụ sở của người có thẩm quyền xử phạt để giải quyết vụ việc vi phạm mà vẫn tiếp tục điều khiển phương tiện hoặc đưa phương tiện ra tham gia giao thông, sẽ bị áp dụng xử phạt như hành vi không có giấy tờ.
+3. Đối với trường hợp tại thời điểm kiểm tra, người điều khiển phương tiện không xuất trình được một, một số hoặc tất cả các giấy tờ (Giấy phép lái xe, Giấy đăng ký xe, Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường) theo quy định, xử lý như sau:
+a) Người có thẩm quyền tiến hành lập biên bản vi phạm hành chính đối với người điều khiển phương tiện về hành vi không có giấy tờ (tương ứng với những loại giấy tờ không xuất trình được), đồng thời lập biên bản vi phạm hành chính đối với chủ phương tiện về những hành vi vi phạm tương ứng quy định tại Điều 30 Nghị định này và tạm giữ phương tiện theo quy định;
+b) Trong thời hạn hẹn đến giải quyết vụ việc vi phạm ghi trong biên bản vi phạm hành chính, nếu người vi phạm xuất trình được các giấy tờ theo quy định thì người có thẩm quyền ra quyết định xử phạt về hành vi không mang theo giấy tờ đối với người điều khiển phương tiện (không xử phạt đối với chủ phương tiện);
+c) Quá thời hạn hẹn đến giải quyết vụ việc vi phạm ghi trong biên bản vi phạm hành chính, người vi phạm mới xuất trình được hoặc không xuất trình được giấy tờ theo quy định thì phải chấp hành quyết định xử phạt vi phạm hành chính theo quy định đối với các hành vi vi phạm đã ghi trong biên bản vi phạm hành chính.
+4. Khi phương tiện bị tạm giữ theo quy định tại khoản 1, khoản 2, khoản 3 Điều này, chủ phương tiện phải chịu mọi chi phí (nếu có) cho việc sử dụng phương tiện khác thay thế để vận chuyển người, hàng hóa được chở trên phương tiện bị tạm giữ.
+Điều 83.[184] (được bãi bỏ)
+Chương V
+ĐIỀU KHOẢN THI HÀNH
+Điều 84. Hiệu lực thi hành [185]
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2020.
+2. Nghị định này thay thế Nghị định số 46/2016/NĐ-CP ngày 26 tháng 5 năm 2016 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt.
+Điều 85. Điều khoản chuyển tiếp [186]
+Đối với các hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ, đường sắt xảy ra trước ngày Nghị định này có hiệu lực thi hành mà sau đó mới bị phát hiện hoặc đang xem xét giải quyết thì áp dụng các quy định có lợi cho tổ chức, cá nhân vi phạm.
+Điều 86. Trách nhiệm thi hành [187]
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này./.
+đ) Giao xe hoặc để cho người không đủ điều kiện theo quy định tại khoản 1 Điều 58 của Luật Giao thông đường bộ điều khiển xe tham gia giao thông (bao gồm cả trường hợp người điều khiển phương tiện có Giấy phép lái xe nhưng đã hết hạn sử dụng hoặc đang trong thời gian bị tước quyền sử dụng);
+e) Không chấp hành việc thu hồi Giấy đăng ký xe, biển số xe theo quy định;
+g)[96] Đưa phương tiện không có Giấy đăng ký xe tham gia giao thông hoặc có nhưng đã hết hạn sử dụng; đưa phương tiện có Giấy chứng nhận đăng ký xe tạm thời, phương tiện có phạm vi hoạt động hạn chế tham gia giao thông quá thời hạn, tuyến đường, phạm vi cho phép;
+h) Đưa phương tiện có Giấy đăng ký xe nhưng không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa tham gia giao thông; đưa phương tiện có Giấy đăng ký xe nhưng không đúng với số khung số máy của xe tham gia giao thông;
+i) Lắp đặt, sử dụng thiết bị thay đổi biển số trên xe trái quy định;
+k) Đưa phương tiện không gắn biển số (đối với loại xe có quy định phải gắn biển số) tham gia giao thông; đưa phương tiện gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp tham gia giao thông.
+6.[97] Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng trên mỗi người vượt quá quy định được phép chở của phương tiện nhưng tổng mức phạt tiền tối đa không vượt quá 75.000.000 đồng đối với chủ phương tiện là cá nhân, từ 2.000.000 đồng đến 4.000.000 đồng trên mỗi người vượt quá quy định được phép chở của phương tiện nhưng tổng mức phạt tiền tối đa không vượt quá 150.000.000 đồng đối với chủ phương tiện là tổ chức giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 4 Điều 23 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 4 Điều 23 Nghị định này.
+7. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 8.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Tự ý cắt, hàn, đục lại số khung, số máy; đưa phương tiện đã bị cắt, hàn, đục lại số khung, số máy trái quy định tham gia giao thông;
+b) Tẩy xóa hoặc sửa chữa hồ sơ đăng ký xe;
+c) Không chấp hành việc thu hồi Giấy đăng ký xe; biển số xe; Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ theo quy định;
+d)[98] Không làm thủ tục đổi lại Giấy đăng ký xe theo quy định khi xe đã được cải tạo hoặc khi thay đổi địa chỉ của chủ xe hoặc các trường hợp khác theo quy định;
+đ)[99] (được bãi bỏ)
+e) Khai báo không đúng sự thật hoặc sử dụng các giấy tờ, tài liệu giả để được cấp lại biển số, Giấy đăng ký xe, Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường;
+g) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm e khoản 3, điểm m khoản 5 Điều 23 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm e khoản 3, điểm m khoản 5 Điều 23 Nghị định này;
+h) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a, điểm đ khoản 2 Điều 24 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a, điểm đ khoản 2 Điều 24 Nghị định này;
+i) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 2 Điều 24 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 2 Điều 24 Nghị định này;
+k)[100] (được bãi bỏ)
+b) Đưa phương tiện không có Giấy đăng ký xe tham gia giao thông hoặc có nhưng đã hết hạn sử dụng; đưa phương tiện có Giấy chứng nhận đăng ký xe tạm thời, phương tiện có phạm vi hoạt động hạn chế tham gia giao thông quá thời hạn, tuyến đường, phạm vi cho phép.
+11. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với cá nhân, từ 32.000.000 đồng đến 36.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô khi giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 7 Điều 24 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 7 Điều 24 Nghị định này.
+12.[109] Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng đối với cá nhân, từ 36.000.000 đồng đến 40.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a, điểm b khoản 8 Điều 24 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a, điểm b khoản 8 Điều 24 Nghị định này; 
+b) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều 25 Nghị định này;
+c) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 3 Điều 33 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 3 Điều 33 Nghị định này.
+13.[110] Phạt tiền từ 28.000.000 đồng đến 32.000.000 đồng đối với cá nhân, từ 56.000.000 đồng đến 64.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 3 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 3 Điều 25 Nghị định này; 
+b) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 3 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 3 Điều 25 Nghị định này; 
+c) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c khoản 3 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c khoản 3 Điều 25 Nghị định này; 
+d) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm d khoản 3 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm d khoản 3 Điều 25 Nghị định này;
+đ) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 4 Điều 33 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 4 Điều 33 Nghị định này;
+e) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 4 Điều 33 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 4 Điều 33 Nghị định này;
+g) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c khoản 4 Điều 33 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c khoản 4 Điều 33 Nghị định này
+a) Điều khiển xe không có Giấy đăng ký xe theo quy định hoặc sử dụng Giấy đăng ký xe đã hết hạn sử dụng (kể cả rơ moóc và sơ mi rơ moóc);
+b) Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) không gắn biển số (đối với loại xe có quy định phải gắn biển số);
+c) Điều khiển xe ô tô tải (kể cả rơ moóc và sơ mi rơ moóc) có kích thước thùng xe không đúng với thông số kỹ thuật được ghi trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe;
+d) Điều khiển xe lắp đặt, sử dụng còi vượt quá âm lượng theo quy định.
+5. Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe có Giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường nhưng đã hết hạn sử dụng dưới 01 tháng (kể cả rơ moóc và sơ mi rơ moóc);
+b) Điều khiển xe không đủ hệ thống hãm hoặc có đủ hệ thống hãm nhưng không có tác dụng, không đúng tiêu chuẩn an toàn kỹ thuật (kể cả rơ moóc và sơ mi rơ moóc). 
+6. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp (kể cả rơ moóc và sơ mi rơ moóc);
+b) Sử dụng Giấy đăng ký xe, Giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa; sử dụng Giấy đăng ký xe không đúng số khung, số máy của xe (kể cả rơ moóc và sơ mi rơ moóc);
+c) Điều khiển xe không có Giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định, trừ xe đăng ký tạm thời) hoặc có nhưng đã hết hạn sử dụng từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc);
+d) Điều khiển xe không gắn đủ biển số hoặc gắn biển số không đúng vị trí; gắn biển số không rõ chữ, số; gắn biển số bị bẻ cong, bị che lấp, bị hỏng; sơn, dán thêm làm thay đổi chữ, số hoặc thay đổi màu sắc của chữ, số, nền biển (kể cả rơ moóc và sơ mi rơ moóc).
+7. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe đăng ký tạm, xe có phạm vi hoạt động hạn chế hoạt động quá phạm vi, thời hạn cho phép;
+b) Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) quá niên hạn sử dụng tham gia giao thông (đối với loại xe có quy định về niên hạn sử dụng);
+c) Điều khiển loại xe sản xuất, lắp ráp trái quy định tham gia giao thông (bao gồm cả xe công nông thuộc diện bị đình chỉ tham gia giao thông, rơ moóc và sơ mi rơ moóc được kéo theo).
+8. Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm a, điểm b khoản 3; khoản 4; khoản 5; điểm c khoản 6; điểm a khoản 7 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+b) Thực hiện hành vi quy định tại điểm a khoản 3, điểm d khoản 4 Điều này bị tịch thu đèn lắp thêm, còi vượt quá âm lượng;
+c) Thực hiện hành vi quy định tại điểm a, điểm b khoản 6 Điều này bị tịch thu Giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường, Giấy đăng ký xe, biển số không đúng quy định hoặc bị tẩy xóa; bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+Điều 7. Xử phạt người điều khiển máy kéo, xe máy chuyên dùng (sau đây gọi chung là xe) vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường, trừ các hành vi vi phạm quy định tại điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e khoản 2; điểm a, điểm b, điểm c, điểm đ, điểm h, điểm i khoản 3; điểm a, điểm b, điểm c, điểm d, điểm đ, điểm g khoản 4; điểm a, điểm c, điểm đ khoản 5; điểm a, điểm b khoản 6; điểm a khoản 7; điểm a, điểm b khoản 8 Điều này;
+b) Chuyển hướng không nhường quyền đi trước cho: Người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+c) Chuyển hướng không nhường đường cho: Các xe đi ngược chiều; người đi bộ, xe lăn của người khuyết tật đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ.
+2. Phạt tiền từ 300.000 đồng đến 400.000 đồng[37] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, ngầm, gầm cầu vượt, trừ trường hợp tổ chức giao thông tại những khu vực này có bố trí nơi quay đầu xe;
+b) Lùi xe ở đường một chiều, đường có biển “Cấm đi ngược chiều”, khu vực cấm dừng, trên phần đường dành cho người đi bộ qua đường, nơi đường bộ giao nhau, nơi đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất; lùi xe không quan sát hoặc không có tín hiệu báo trước;
+c) Đỗ, để xe ở hè phố trái quy định của pháp luật;
+d) Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng; dừng xe, đỗ xe không sát mép đường phía bên phải theo chiều đi ở nơi đường có lề đường hẹp hoặc không có lề đường; dừng xe, đỗ xe ngược với chiều lưu thông của làn đường; dừng xe, đỗ xe trên dải phân cách cố định ở giữa hai phần đường xe chạy; dừng xe, đỗ xe không đúng vị trí quy định ở những đoạn đường đã có bố trí nơi dừng xe, đỗ xe; đỗ xe trên dốc không chèn bánh; dừng xe nơi có biển “Cấm dừng xe và đỗ xe”; đỗ xe nơi có biển “Cấm đỗ xe” hoặc biển “Cấm dừng xe và đỗ xe”, trừ hành vi vi phạm quy định tại điểm a khoản 6 Điều này;
+đ) Dừng xe, đỗ xe tại các vị trí: Bên trái đường một chiều hoặc bên trái (theo hướng lưu thông) của đường đôi; trên đoạn đường cong hoặc gần đầu dốc nơi tầm nhìn bị che khuất; trên cầu, gầm cầu vượt, song song với một xe khác đang dừng, đỗ; nơi đường bộ giao nhau hoặc trong phạm vi 05 m tính từ mép đường giao nhau; điểm dừng đón, trả khách của xe buýt; trước cổng hoặc trong phạm vi 05 m hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ô tô ra vào; nơi phần đường có bề rộng chỉ đủ cho một làn xe; che khuất biển báo hiệu đường bộ; nơi mở dải phân cách giữa, trừ hành vi vi phạm quy định tại điểm a khoản 6 Điều này;
+e) Dừng xe, đỗ xe ở lòng đường đô thị trái quy định; dừng xe, đỗ xe trên đường xe điện, đường dành riêng cho xe buýt, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, các chỗ dành riêng cho xe chữa cháy lấy nước, trên phần đường dành cho người đi bộ qua đường; rời vị trí lái, tắt máy khi dừng xe; mở cửa xe, để cửa xe mở không bảo đảm an toàn;
+g) Khi dừng xe, đỗ xe không có tín hiệu báo cho người điều khiển phương tiện khác biết;
+o) Không sử dụng thẻ nhận dạng lái xe để đăng nhập thông tin theo quy định hoặc sử dụng thẻ nhận dạng lái xe của lái xe khác để đăng nhập thông tin khi điều khiển xe ô tô chở khách;
+p)[67] Điều khiển xe ô tô kinh doanh vận tải hành khách không lắp camera theo quy định (đối với loại xe có quy định phải lắp camera) hoặc có lắp camera nhưng không ghi, không lưu trữ được hình ảnh trên xe (bao gồm cả lái xe và cửa lên xuống của xe) trong quá trình xe tham gia giao thông theo quy định hoặc sử dụng biện pháp kỹ thuật, trang thiết bị ngoại vi, các biện pháp khác làm sai lệch dữ liệu của camera lắp trên xe ô tô;
+q) Điều khiển xe vận chuyển khách du lịch, xe vận chuyển hành khách theo hợp đồng sử dụng hợp đồng điện tử không có thiết bị để truy cập được nội dung của hợp đồng điện tử và danh sách hành khách hoặc có nhưng không cung cấp cho lực lượng chức năng khi có yêu cầu, chở người không có tên trong danh sách hành khách hoặc vận chuyển không đúng đối tượng theo quy định (đối với xe kinh doanh vận tải hành khách theo hợp đồng vận chuyển học sinh, sinh viên, cán bộ công nhân viên đi học, đi làm việc).
+6. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Vận chuyển hàng nguy hiểm, hàng độc hại, dễ cháy, dễ nổ hoặc động vật, hàng hóa khác có ảnh hưởng đến sức khỏe của hành khách trên xe chở hành khách;
+b) Chở người trên mui xe, nóc xe, trong khoang chở hành lý của xe;
+c) Hành hung hành khách;
+d) Điều khiển xe ô tô quá thời gian quy định tại khoản 1 Điều 65 của Luật giao thông đường bộ;
+đ)[68] Điều khiển xe tham gia kinh doanh vận tải hành khách không gắn thiết bị giám sát hành trình của xe theo quy định hoặc có gắn thiết bị giám sát hành trình của xe nhưng thiết bị không hoạt động theo quy định hoặc sử dụng biện pháp kỹ thuật, trang thiết bị ngoại vi, các biện pháp khác làm sai lệch dữ liệu của thiết bị giám sát hành trình của xe ô tô;
+e) Điều khiển xe chở hành khách liên vận quốc tế không có hoặc không gắn ký hiệu phân biệt quốc gia, phù hiệu liên vận theo quy định hoặc có nhưng đã hết giá trị sử dụng hoặc sử dụng phù hiệu không do cơ quan có thẩm quyền cấp.
+7. Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a)[69] (được bãi bỏ)
+b) Điều khiển xe chở hành khách không có hoặc không gắn phù hiệu (biển hiệu) theo quy định hoặc có nhưng đã hết giá trị sử dụng hoặc sử dụng phù hiệu (biển hiệu) không do cơ quan có thẩm quyền cấp.
+7a.[70] Phạt tiền từ 10.000.000 đồng đến 12.000.0000 đồng đối với người điều khiển xe thực hiện hành vi đón, trả hành khách trên đường cao tốc.
+8. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại khoản 2, khoản 4 (trường hợp vượt trên 50% đến 100% số người quy định được phép chở của phương tiện); điểm c, điểm d, điểm e khoản 3; điểm a, điểm b, điểm c, điểm d, điểm đ, điểm e, điểm h, điểm i, điểm k, điểm l, điểm m, điểm o, điểm q khoản 5; khoản 6; điểm b khoản 7 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+b)[71] Thực hiện hành vi quy định tại khoản 7a Điều này bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng;
+c) Thực hiện hành vi quy định tại khoản 2, khoản 4 Điều này (trường hợp vượt trên 100% số người quy định được phép chở của phương tiện) bị tước quyền sử dụng Giấy phép lái xe từ 03 tháng đến 05 tháng;
+d) Thực hiện hành vi quy định tại điểm e khoản 6, điểm b khoản 7 Điều này bị tịch thu phù hiệu (biển hiệu) đã hết giá trị sử dụng hoặc không do cơ quan có thẩm quyền cấp.
+e)[44] Chở người ngồi trên xe đạp máy (kể cả xe đạp điện) không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật.
+5. Ngoài việc bị phạt tiền, người điều khiển phương tiện tái phạm hoặc vi phạm nhiều lần hành vi quy định tại điểm a, điểm b khoản 3 Điều này còn bị áp dụng hình thức xử phạt bổ sung tịch thu phương tiện.
+Điều 9. Xử phạt người đi bộ vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 60.000 đồng đến 100.000 đồng đối với người đi bộ thực hiện một trong các hành vi vi phạm sau đây:
+a) Không đi đúng phần đường quy định; vượt qua dải phân cách; đi qua đường không đúng nơi quy định hoặc không bảo đảm an toàn;
+b) Không chấp hành hiệu lệnh hoặc chỉ dẫn của đèn tín hiệu, biển báo hiệu, vạch kẻ đường, trừ hành vi vi phạm quy định tại khoản 2 Điều này;
+c) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+d) Mang, vác vật cồng kềnh gây cản trở giao thông;
+đ) Đu, bám vào phương tiện giao thông đang chạy.
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người đi bộ đi vào đường cao tốc, trừ người phục vụ việc quản lý, bảo trì đường cao tốc.
+Điều 10. Xử phạt người điều khiển, dẫn dắt súc vật, điều khiển xe súc vật kéo vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 60.000 đồng đến 100.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Không nhường đường theo quy định, không báo hiệu bằng tay khi chuyển hướng;
+b) Không chấp hành hiệu lệnh hoặc chỉ dẫn của đèn tín hiệu, biển báo hiệu, vạch kẻ đường, trừ hành vi vi phạm quy định tại khoản 3 Điều này;
+c) Không đủ dụng cụ đựng chất thải của súc vật hoặc không dọn sạch chất thải của súc vật thải ra đường, hè phố;
+d) Điều khiển, dẫn dắt súc vật đi không đúng phần đường quy định, đi vào đường cấm, khu vực cấm, đi vào phần đường của xe cơ giới;
+đ) Để súc vật đi trên đường bộ không bảo đảm an toàn cho người và phương tiện đang tham gia giao thông;
+e) Đi dàn hàng ngang từ 02 xe trở lên;
+g) Để súc vật kéo xe mà không có người điều khiển;
+h) Điều khiển xe không có báo hiệu theo quy định.
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+b) Dắt súc vật chạy theo khi đang điều khiển hoặc ngồi trên phương tiện giao thông đường bộ;
+c) Xếp hàng hóa trên xe vượt quá giới hạn quy định.
+3. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển, dẫn dắt súc vật, điều khiển xe súc vật kéo đi vào đường cao tốc trái quy định.
+Điều 11. Xử phạt các hành vi vi phạm khác về quy tắc giao thông đường bộ
+1. Phạt tiền từ 80.000 đồng đến 100.000 đồng đối với người được chở trên xe đạp, xe đạp máy sử dụng ô (dù).
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với cá nhân thực hiện một trong các hành vi vi phạm sau đây:
+a) Tập trung đông người trái phép, nằm, ngồi trên đường bộ gây cản trở giao thông;
+b) Đá bóng, đá cầu, chơi cầu lông hoặc các hoạt động thể thao khác trái phép trên đường bộ; sử dụng bàn trượt, pa-tanh, các thiết bị tương tự trên phần đường xe chạy;
+c) Người được chở trên xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy sử dụng ô (dù);
+2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe hoạt động không đúng phạm vi quy định;
+b) Điều khiển máy kéo, xe máy chuyên dùng sản xuất, lắp ráp hoặc cải tạo trái quy định tham gia giao thông;
+c) Điều khiển xe không có Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định, trừ xe đăng ký tạm thời) hoặc có nhưng đã hết hạn sử dụng từ 01 tháng trở lên (kể cả rơ moóc);
+d) Điều khiển xe không có Giấy đăng ký xe hoặc sử dụng Giấy đăng ký xe đã hết hạn sử dụng (kể cả rơ moóc);
+đ) Điều khiển xe không gắn biển số (đối với loại xe có quy định phải gắn biển số); gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp (kể cả rơ moóc);
+e) Sử dụng Giấy đăng ký xe, Giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa; sử dụng Giấy đăng ký xe không đúng số khung, số máy của xe (kể cả rơ moóc).
+3. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm b khoản 2 Điều này bị tịch thu phương tiện;
+b) Thực hiện hành vi quy định tại điểm đ khoản 1; điểm b, điểm c, điểm d, điểm đ, điểm e khoản 2 Điều này bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ khi điều khiển xe máy chuyên dùng) từ 01 tháng đến 03 tháng;
+c) Thực hiện hành vi quy định tại điểm đ, điểm e khoản 2 Điều này bị tịch thu Giấy đăng ký xe, biển số, Giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không đúng quy định hoặc bị tẩy xóa;
+d) Thực hiện hành vi quy định tại điểm d, điểm e khoản 2 Điều này trong trường hợp không có Giấy đăng ký xe hoặc sử dụng Giấy đăng ký xe không do cơ quan có thẩm quyền cấp, không đúng số khung, số máy của xe hoặc bị tẩy xóa (kể cả rơ moóc) mà không chứng minh được nguồn gốc xuất xứ của phương tiện (không có giấy tờ, chứng từ chuyển quyền sở hữu xe hoặc giấy tờ, chứng từ nguồn gốc xe hợp pháp) thì bị tịch thu phương tiện.
+4. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b, điểm c, điểm d khoản 1 Điều này còn bị áp dụng biện pháp khắc phục hậu quả: Buộc phải lắp đầy đủ thiết bị hoặc thay thế thiết bị đủ tiêu chuẩn an toàn kỹ thuật hoặc khôi phục lại tính năng kỹ thuật của thiết bị theo quy định.
+Điều 20. Xử phạt người điều khiển xe ô tô, máy kéo và các loại xe tương tự xe ô tô vi phạm quy định về bảo vệ môi trường khi tham gia giao thông
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi điều khiển xe không đáp ứng yêu cầu về vệ sinh lưu thông trong đô thị.
+2. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Để dầu nhờn, hóa chất rơi vãi xuống đường bộ;
+b) Chở hàng rời, chất thải, vật liệu xây dựng dễ rơi vãi mà không có mui, bạt che đậy hoặc có mui, bạt che đậy nhưng vẫn để rơi vãi; chở hàng hoặc chất thải để nước chảy xuống mặt đường gây mất an toàn giao thông và vệ sinh môi trường;
+c) Lôi kéo bùn, đất, cát, nguyên liệu, vật liệu hoặc chất phế thải khác ra đường bộ gây mất an toàn giao thông và vệ sinh môi trường.
+3. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe đổ trái phép rác, đất, cát, đá, vật liệu, chất phế thải trong phạm vi đất dành cho đường bộ ở đoạn đường ngoài đô thị.
+a) Thực hiện hành vi quy định tại điểm b, điểm c, điểm g khoản 3; điểm a, điểm c, điểm d, điểm e khoản 4; khoản 5 Điều này bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 01 tháng đến 03 tháng;
+b) Thực hiện hành vi quy định tại điểm a, điểm b khoản 6; điểm a khoản 7 Điều này bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 02 tháng đến 04 tháng. Thực hiện hành vi quy định tại một trong các điểm, khoản sau của Điều này mà gây tai nạn giao thông thì bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 02 tháng đến 04 tháng: điểm a khoản 1; điểm e, điểm g, điểm h khoản 2; điểm d, điểm đ, điểm e, điểm i khoản 3; điểm b, điểm d, điểm e khoản 4; điểm b, điểm d, điểm đ khoản 5 Điều này;
+c) Thực hiện hành vi quy định tại khoản 8 Điều này thì bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 05 tháng đến 07 tháng;
+d) Thực hiện hành vi quy định tại điểm c khoản 6 Điều này thì bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 10 tháng đến 12 tháng;
+đ) Thực hiện hành vi quy định tại điểm b khoản 7 Điều này thì bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 16 tháng đến 18 tháng;
+e) Thực hiện hành vi quy định tại khoản 9 bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 22 tháng đến 24 tháng.
+Điều 8. Xử phạt người điều khiển xe đạp, xe đạp máy (kể cả xe đạp điện), người điều khiển xe thô sơ khác vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 80.000 đồng đến 100.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không đi bên phải theo chiều đi của mình, đi không đúng phần đường quy định;
+b) Dừng xe đột ngột; chuyển hướng không báo hiệu trước;
+c) Không chấp hành hiệu lệnh hoặc chỉ dẫn của biển báo hiệu, vạch kẻ đường, trừ các hành vi vi phạm quy định tại điểm đ khoản 2, điểm c khoản 3 Điều này;
+d) Vượt bên phải trong các trường hợp không được phép;
+đ) Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường;
+e) Chạy trong hầm đường bộ không có đèn hoặc vật phát sáng báo hiệu; dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định; quay đầu xe trong hầm đường bộ;
+g) Điều khiển xe đạp, xe đạp máy đi dàn hàng ngang từ 03 xe trở lên, xe thô sơ khác đi dàn hàng ngang từ 02 xe trở lên;
+h) Người điều khiển xe đạp, xe đạp máy sử dụng ô (dù), điện thoại di động; chở người ngồi trên xe đạp, xe đạp máy sử dụng ô (dù);
+i) Điều khiển xe thô sơ đi ban đêm không có báo hiệu bằng đèn hoặc vật phản quang;
+k) Để xe ở lòng đường đô thị, hè phố trái quy định của pháp luật; đỗ xe ở lòng đường đô thị gây cản trở giao thông, đỗ xe trên đường xe điện, đỗ xe trên cầu gây cản trở giao thông;
+l) Không tuân thủ các quy định về dừng xe, đỗ xe tại nơi đường bộ giao nhau cùng mức với đường sắt, trừ hành vi vi phạm quy định tại điểm b khoản 2, điểm b khoản 3 Điều 49 Nghị định này;
+5. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi lanh dưới 175 cm3 và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Không có Giấy phép lái xe hoặc sử dụng Giấy phép lái xe không do cơ quan có thẩm quyền cấp, Giấy phép lái xe bị tẩy xóa;
+b) Có Giấy phép lái xe quốc tế do các nước tham gia Công ước về Giao thông đường bộ năm 1968 cấp (trừ Giấy phép lái xe quốc tế do Việt Nam cấp) nhưng không mang theo Giấy phép lái xe quốc gia;
+c) Sử dụng Giấy phép lái xe không hợp lệ (Giấy phép lái xe có số phôi ghi ở mặt sau không trùng với số phôi được cấp mới nhất trong hệ thống thông tin quản lý Giấy phép lái xe).
+6. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người từ đủ 16 tuổi đến dưới 18 tuổi điều khiển xe ô tô, máy kéo, các loại xe tương tự xe ô tô.
+7. Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi lanh từ 175 cm3 trở lên, xe mô tô ba bánh thực hiện một trong các hành vi vi phạm sau đây:
+a) Có Giấy phép lái xe nhưng không phù hợp với loại xe đang điều khiển;
+b) Không có Giấy phép lái xe hoặc sử dụng Giấy phép lái xe không do cơ quan có thẩm quyền cấp, Giấy phép lái xe bị tẩy xóa;
+c) Có Giấy phép lái xe quốc tế do các nước tham gia Công ước về Giao thông đường bộ năm 1968 cấp (trừ Giấy phép lái xe quốc tế do Việt Nam cấp) nhưng không mang theo Giấy phép lái xe quốc gia;
+d) Sử dụng Giấy phép lái xe không hợp lệ (Giấy phép lái xe có số phôi ghi ở mặt sau không trùng với số phôi được cấp mới nhất trong hệ thống thông tin quản lý Giấy phép lái xe).
+8. Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với người điều khiển xe ô tô, máy kéo và các loại xe tương tự xe ô tô vi phạm một trong các hành vi sau đây:
+a) Có Giấy phép lái xe nhưng đã hết hạn sử dụng dưới 03 tháng;
+b) Có Giấy phép lái xe quốc tế do các nước tham gia Công ước về Giao thông đường bộ năm 1968 cấp (trừ Giấy phép lái xe quốc tế do Việt Nam cấp) nhưng không mang theo Giấy phép lái xe quốc gia;
+c) Sử dụng Giấy phép lái xe không hợp lệ (Giấy phép lái xe có số phôi ghi ở mặt sau không trùng với số phôi được cấp mới nhất trong hệ thống thông tin quản lý Giấy phép lái xe).
+9. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe ô tô, máy kéo và các loại xe tương tự xe ô tô vi phạm một trong các hành vi sau đây:
+a) Có Giấy phép lái xe nhưng không phù hợp với loại xe đang điều khiển hoặc có Giấy phép lái xe nhưng đã hết hạn sử dụng từ 03 tháng trở lên;
+b) Không có Giấy phép lái xe hoặc sử dụng Giấy phép lái xe không do cơ quan có thẩm quyền cấp hoặc sử dụng Giấy phép lái xe bị tẩy xóa.
+10. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm a, điểm c khoản 5; điểm b, điểm d khoản 7; điểm c khoản 8; điểm b khoản 9 Điều này còn bị áp dụng hình thức xử phạt bổ sung tịch thu Giấy phép lái xe không do cơ quan có thẩm quyền cấp, Giấy phép lái xe bị tẩy xóa, Giấy phép lái xe không hợp lệ;
+b) Thực hiện hành vi quy định tại điểm c khoản 5, điểm d khoản 7, điểm c khoản 8 bị tước quyền sử dụng Giấy phép lái xe được cấp mới nhất trong hệ thống thông tin quản lý Giấy phép lái xe từ 01 tháng đến 03 tháng.
+Điều 22. Xử phạt các hành vi vi phạm quy định về điều kiện của người điều khiển xe máy chuyên dùng
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Người điều khiển xe máy chuyên dùng không đúng độ tuổi hoặc tuổi không phù hợp với ngành nghề theo quy định;
+c) Thực hiện hành vi quy định tại điểm a, điểm b khoản 6 Điều này bị tịch thu Giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường, Giấy đăng ký xe, biển số không đúng quy định hoặc bị tẩy xóa; bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+d) Thực hiện hành vi quy định tại điểm b, điểm c khoản 7 Điều này bị tịch thu phương tiện (trừ trường hợp xe ô tô từ 10 chỗ ngồi trở lên kinh doanh vận tải hành khách có niên hạn sử dụng vượt quá quy định về điều kiện kinh doanh của hình thức kinh doanh đã đăng ký nhưng chưa quá 20 năm tính từ năm sản xuất, xe ô tô dưới 10 chỗ ngồi kinh doanh vận tải hành khách) và bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng; 
+đ) Thực hiện hành vi quy định tại điểm a khoản 4, điểm b khoản 6 Điều này trong trường hợp không có Giấy đăng ký xe hoặc sử dụng Giấy đăng ký xe không do cơ quan có thẩm quyền cấp, không đúng số khung, số máy của xe hoặc bị tẩy xóa (kể cả rơ moóc và sơ mi rơ moóc) mà không chứng minh được nguồn gốc xuất xứ của phương tiện (không có giấy tờ, chứng từ chuyển quyền sở hữu xe hoặc giấy tờ, chứng từ nguồn gốc xe hợp pháp) thì bị tịch thu phương tiện.
+9. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các biện pháp khắc phục hậu quả sau đây:
+a) Thực hiện hành vi quy định tại khoản 1; khoản 2; điểm b, điểm c khoản 3; điểm c, điểm d khoản 4; điểm b khoản 5; điểm d khoản 6 Điều này buộc phải lắp đầy đủ thiết bị hoặc thay thế thiết bị đủ tiêu chuẩn an toàn kỹ thuật hoặc khôi phục lại tính năng kỹ thuật của thiết bị theo quy định;
+b) Thực hiện hành vi quy định tại điểm a, điểm d khoản 3 Điều này buộc phải lắp đầy đủ thiết bị hoặc khôi phục lại tính năng kỹ thuật của thiết bị theo quy định, tháo bỏ những thiết bị lắp thêm không đúng quy định.
+Điều 17. Xử phạt người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy vi phạm quy định về điều kiện của phương tiện khi tham gia giao thông
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe không có còi; đèn soi biển số; đèn báo hãm; gương chiếu hậu bên trái người điều khiển hoặc có nhưng không có tác dụng;
+b)[54] (được bãi bỏ)
+c) Điều khiển xe không có đèn tín hiệu hoặc có nhưng không có tác dụng;
+d) Sử dụng còi không đúng quy chuẩn kỹ thuật cho từng loại xe;
+đ) Điều khiển xe không có bộ phận giảm thanh, giảm khói hoặc có nhưng không bảo đảm quy chuẩn môi trường về khí thải, tiếng ồn;
+e) Điều khiển xe không có đèn chiếu sáng gần, xa hoặc có nhưng không có tác dụng, không đúng tiêu chuẩn thiết kế;
+g) Điều khiển xe không có hệ thống hãm hoặc có nhưng không có tác dụng, không bảo đảm tiêu chuẩn kỹ thuật;
+h) Điều khiển xe lắp đèn chiếu sáng về phía sau xe.
+2. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng[55] đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe không có Giấy đăng ký xe theo quy định hoặc sử dụng Giấy đăng ký xe đã hết hạn sử dụng;
+b) Sử dụng Giấy đăng ký xe đã bị tẩy xóa; sử dụng Giấy đăng ký xe không đúng số khung, số máy của xe hoặc không do cơ quan có thẩm quyền cấp;
+c) Điều khiển xe không gắn biển số (đối với loại xe có quy định phải gắn biển số); gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp;
+d)[56] Điều khiển xe gắn biển số không đúng quy định; gắn biển số không rõ chữ, số; gắn biển số bị bẻ cong, bị che lấp, bị hỏng; sơn, dán thêm làm thay đổi chữ, số hoặc thay đổi màu sắc của chữ, số, nền biển.
+4. Phạt tiền từ 300.000 đồng đến 400.000 đồng [125] đối với người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy dừng xe, đỗ xe trong phạm vi an toàn đường ngang, cầu chung; không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường khi đi qua đường ngang, cầu chung.
+5. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng[126] đối với người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy vượt rào chắn đường ngang, cầu chung khi chắn đang dịch chuyển; vượt đường ngang, cầu chung khi đèn đỏ đã bật sáng; không chấp hành hiệu lệnh, chỉ dẫn của nhân viên gác đường ngang, cầu chung khi đi qua đường ngang, cầu chung.
+6. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe ô tô, các loại xe tương tự xe ô tô, máy kéo, xe máy chuyên dùng dừng xe, đỗ xe quay đầu xe trong phạm vi an toàn đường ngang, cầu chung; không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường khi đi qua đường ngang, cầu chung.
+7. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng[127] đối với người điều khiển máy kéo, xe máy chuyên dùng vượt rào chắn đường ngang, cầu chung khi chắn đang dịch chuyển; vượt đường ngang, cầu chung khi đèn đỏ đã bật sáng; không chấp hành hiệu lệnh, chỉ dẫn của nhân viên gác đường ngang, cầu chung khi đi qua đường ngang, cầu chung.
+8. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng[128] đối với người điều khiển xe ô tô, các loại xe tương tự xe ô tô vượt rào chắn đường ngang, cầu chung khi chắn đang dịch chuyển; vượt đường ngang, cầu chung khi đèn đỏ đã bật sáng; không chấp hành hiệu lệnh, chỉ dẫn của nhân viên gác đường ngang, cầu chung khi đi qua đường ngang, cầu chung.
+9. Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với người điều khiển phương tiện giao thông đường bộ vi phạm một trong các hành vi sau đây:
+a) Điều khiển phương tiện giao thông cơ giới đường bộ làm hỏng cần chắn, giàn chắn, các thiết bị khác tại đường ngang, cầu chung;
+b) Điều khiển xe bánh xích, xe lu bánh sắt, các phương tiện vận chuyển hàng siêu trường, siêu trọng, quá khổ giới hạn đi qua đường ngang mà không thông báo cho tổ chức quản lý đường ngang, không thực hiện đúng các biện pháp bảo đảm an toàn.
+10. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 5, khoản 7, khoản 8, khoản 9 Điều này còn bị áp dụng hình thức xử phạt bổ sung tước quyền sử dụng Giấy phép lái xe (khi điều khiển phương tiện giao thông cơ giới đường bộ), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 01 tháng đến 03 tháng.
+11. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 9 Điều này còn bị áp dụng biện pháp khắc phục hậu quả buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra.
+Điều 48. Xử phạt các hành vi vi phạm quy định về phòng, chống thiên tai và giải quyết sự cố, tai nạn giao thông đường sắt
+1. Cảnh cáo hoặc phạt tiền từ 100.000 đồng đến 200.000 đồng đối với cá nhân biết tai nạn giao thông xảy ra trên đường sắt, phát hiện hành vi, sự cố có khả năng gây cản trở, mất an toàn giao thông vận tải đường sắt mà không thông báo hoặc thông báo không kịp thời cho nhà ga, đơn vị đường sắt, chính quyền địa phương hoặc cơ quan công an nơi gần nhất.
+2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với cá nhân có trách nhiệm mà không phát hiện kịp thời sự cố, chướng ngại vật trên đường sắt có ảnh hưởng đến an toàn giao thông hoặc đã phát hiện mà không thông báo kịp thời, không phòng vệ hoặc phòng vệ không đúng quy định.
+m) Chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần;
+n)[30] Không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách khi điều khiển xe tham gia giao thông trên đường bộ;
+o)[31] Chở người ngồi trên xe không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật.
+4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng[32] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h;
+b) Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định;
+c) Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm h khoản 3 Điều này;
+d) Vượt xe trong hầm đường bộ không đúng nơi quy định; quay đầu xe trong hầm đường bộ;
+đ)[33] (được bãi bỏ)
+e) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;
+g) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+h) Người đang điều khiển xe sử dụng ô (dù), điện thoại di động, thiết bị âm thanh, trừ thiết bị trợ thính.
+5.[34] Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”, trừ hành vi vi phạm quy định tại điểm b khoản 6 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+b) Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ.
+6. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy;
+b) Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+7. Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe chạy quá tốc độ quy định trên 20 km/h;
+b) Không chú ý quan sát, điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông; đi vào đường cao tốc, dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông, trừ hành vi vi phạm quy định tại điểm d khoản 8 Điều này;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+8. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+Chương II
+HÀNH VI VI PHẠM, HÌNH THỨC, MỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG BỘ
+Mục 1. VI PHẠM QUY TẮC GIAO THÔNG ĐƯỜNG BỘ
+Điều 5. Xử phạt người điều khiển xe ô tô và các loại xe tương tự xe ô tô vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 300.000 đồng đến 400.000 đồng[11] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường, trừ các hành vi vi phạm quy định tại điểm a, điểm d, điểm g, điểm h, điểm i, điểm k khoản 2; điểm a, điểm d, điểm đ, điểm e, điểm k, điểm l, điểm o, điểm r, điểm s khoản 3; điểm b, điểm c, điểm d, điểm đ, điểm I khoản 4; điểm a, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i khoản 5; điểm a khoản 6; điểm a, điểm c, điểm d khoản 7[12]; điểm a khoản 8 Điều này;
+b) Chuyển hướng không nhường quyền đi trước cho: Người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+c) Chuyển hướng không nhường đường cho: Các xe đi ngược chiều; người đi bộ, xe lăn của người khuyết tật đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
+d) Khi dừng xe, đỗ xe không có tín hiệu báo cho người điều khiển phương tiện khác biết;
+đ) Khi đỗ xe chiếm một phần đường xe chạy không đặt ngay báo hiệu nguy hiểm theo quy định, trừ hành vi vi phạm quy định tại điểm c khoản 6 Điều này và trường hợp đỗ xe tại vị trí quy định được phép đỗ xe;
+e) Không gắn biển báo hiệu ở phía trước xe kéo, phía sau xe được kéo; điều khiển xe kéo rơ moóc không có biển báo hiệu theo quy định;
+g) Bấm còi trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định.
+2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước, trừ các hành vi vi phạm quy định tại điểm g khoản 5 Điều này;
+b) Điều khiển xe chạy tốc độ thấp hơn các xe khác đi cùng chiều mà không đi về bên phải phần đường xe chạy, trừ trường hợp các xe khác đi cùng chiều chạy quá tốc độ quy định;
+c) Chở người trên buồng lái quá số lượng quy định;
+d) Không tuân thủ các quy định về nhường đường tại nơi đường bộ giao nhau, trừ các hành vi vi phạm quy định tại điểm m, điểm n khoản 3 Điều này;
+đ) Điều khiển xe có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng lại, không giữ nguyên hiện trường, không tham gia cấp cứu người bị nạn, trừ hành vi vi phạm quy định tại điểm b khoản 8 Điều này;
+e) Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có giấy phép của cơ quan có thẩm quyền cấp hoặc có giấy phép của cơ quan có thẩm quyền cấp nhưng không còn giá trị sử dụng theo quy định;
+g) Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng; dừng xe, đỗ xe không sát mép đường phía bên phải theo chiều đi ở nơi đường có lề đường hẹp hoặc không có lề đường; dừng xe, đỗ xe ngược với chiều lưu thông của làn đường; dừng xe, đỗ xe trên dải phân cách cố định ở giữa hai phần đường xe chạy; đỗ xe trên dốc không chèn bánh; mở cửa xe, để cửa xe mở không bảo đảm an toàn;
+Điều 30. Xử phạt chủ phương tiện vi phạm quy định liên quan đến giao thông đường bộ
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với cá nhân, từ 200.000 đồng đến 400.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô thực hiện hành vi tự ý thay đổi nhãn hiệu, màu sơn của xe không đúng với Giấy đăng ký xe.
+2. Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với cá nhân, từ 600.000 đồng đến 800.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Lắp kính chắn gió, kính cửa của xe không phải là loại kính an toàn;
+b)[91] (được bãi bỏ)
+c) Không làm thủ tục khai báo với cơ quan đăng ký xe theo quy định trước khi cải tạo xe (đối với loại xe có quy định phải làm thủ tục khai báo).
+3.[92] Phạt tiền từ 400.000 đồng đến 600.000 đồng trên mỗi người vượt quá quy định được phép chở của phương tiện nhưng tổng mức phạt tiền tối đa không vượt quá 75.000.000 đồng đối với chủ phương tiện là cá nhân, từ 800.000 đồng đến 1.200.000 đồng trên mỗi người vượt quá quy định được phép chở của phương tiện nhưng tổng mức phạt tiền tối đa không vượt quá 150.000.000 đồng đối với chủ phương tiện là tổ chức giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều 23 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều 23 Nghị định này.
+4. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với cá nhân, từ 800.000 đồng đến 1.200.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Không làm thủ tục đăng ký sang tên xe (để chuyển tên chủ xe trong Giấy đăng ký xe sang tên của mình) theo quy định khi mua, được cho, được tặng, được phân bổ, được điều chuyển, được thừa kế tài sản là xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô;
+b)[93] Không làm thủ tục đổi lại Giấy đăng ký xe theo quy định khi thay đổi địa chỉ của chủ xe hoặc các trường hợp khác theo quy định;
+c)[94] (được bãi bỏ)
+4a.[95] Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô không thực hiện đúng quy định về biển số, trừ các hành vi vi phạm quy định tại điểm i, điểm k khoản 5 Điều này.
+5. Phạt tiền từ 800.000 đồng đến 2.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 4.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Tự ý cắt, hàn, đục lại số khung, số máy; đưa phương tiện đã bị cắt, hàn, đục lại số khung, số máy trái quy định tham gia giao thông;
+b) Tẩy xóa, sửa chữa hoặc giả mạo hồ sơ đăng ký xe;
+c) Tự ý thay đổi khung, máy, hình dáng, kích thước, đặc tính của xe;
+d) Khai báo không đúng sự thật hoặc sử dụng các giấy tờ, tài liệu giả để được cấp lại biển số, Giấy đăng ký xe;
+đ) Giao xe hoặc để cho người không đủ điều kiện theo quy định tại khoản 1 Điều 58 của Luật Giao thông đường bộ điều khiển xe tham gia giao thông (bao gồm cả trường hợp người điều khiển phương tiện có Giấy phép lái xe nhưng đã hết hạn sử dụng hoặc đang trong thời gian bị tước quyền sử dụng);
+e) Không chấp hành việc thu hồi Giấy đăng ký xe, biển số xe theo quy định;
+Điều 34. Xử phạt người đua xe trái phép, cổ vũ đua xe trái phép
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Tụ tập để cổ vũ, kích động hành vi điều khiển xe chạy quá tốc độ quy định, lạng lách, đánh võng, đuổi nhau trên đường hoặc đua xe trái phép;
+b) Đua xe đạp, đua xe đạp máy, đua xe xích lô, đua xe súc vật kéo, cưỡi súc vật chạy đua trái phép trên đường giao thông.
+2.[115] Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với người đua xe mô tô, xe gắn máy, xe máy điện trái phép.
+3.[116] Phạt tiền từ 20.000.000 đồng đến 25.000.000 đồng đối với người đua xe ô tô trái phép.
+4. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm b khoản 1 Điều này bị tịch thu phương tiện (trừ súc vật kéo, cưỡi);
+b) Thực hiện hành vi quy định tại khoản 2, khoản 3 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 03 tháng đến 05 tháng và tịch thu phương tiện.
+Điều 35. Xử phạt người điều khiển phương tiện giao thông cơ giới đường bộ gắn biển số nước ngoài [117]
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển phương tiện giao thông cơ giới đường bộ gắn biển số nước ngoài thực hiện một trong các hành vi vi phạm sau đây:
+a) Giấy tờ của phương tiện không có bản dịch sang tiếng Anh hoặc tiếng Việt theo quy định; 
+b) Xe chở khách không có danh sách hành khách theo quy định. 
+2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển phương tiện không gắn ký hiệu phân biệt quốc gia theo quy định;
+b) Điều khiển phương tiện không có Giấy phép vận tải quốc tế, phù hiệu vận tải quốc tế liên vận theo quy định hoặc có nhưng đã hết giá trị sử dụng;
+c) Vận chuyển hành khách hoặc hàng hóa không đúng với quy định tại Hiệp định vận tải đường bộ, Nghị định thư đã ký kết, trừ các hành vi vi phạm quy định tại khoản 1, khoản 3, khoản 4, khoản 5 Điều này.
+3. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển phương tiện không gắn biển số tạm thời hoặc gắn biển số tạm thời không do cơ quan có thẩm quyền cấp (nếu có quy định phải gắn biển số tạm thời); 
+b) Điều khiển xe ô tô có tay lái bên phải, xe ô tô hoặc xe mô tô của người nước ngoài vào Việt Nam du lịch tham gia giao thông mà không có xe dẫn đường theo quy định; 
+c) Điều khiển xe ô tô có tay lái bên phải, xe ô tô gắn biển số nước ngoài tham gia giao thông mà người điều khiển xe không đúng quốc tịch theo quy định. 
+4. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Hoạt động quá phạm vi được phép hoạt động; 
+b) Lưu hành phương tiện trên lãnh thổ Việt Nam quá thời hạn quy định dưới 30 ngày.
+5. Phạt tiền từ 30.000.000 đồng đến 35.000.000 đồng đối với hành vi lưu hành phương tiện trên lãnh thổ Việt Nam quá thời hạn quy định từ 30 ngày trở lên.
+6. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b, điểm c khoản 2; điểm a khoản 3; điểm b khoản 4; khoản 5 Điều này còn bị áp dụng biện pháp khắc phục hậu quả: Buộc tái xuất phương tiện khỏi Việt Nam.
+Điều 36. Xử phạt người điều khiển phương tiện đăng ký hoạt động trong Khu kinh tế thương mại đặc biệt, Khu kinh tế cửa khẩu quốc tế
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:
+a) Trường hợp tại thời điểm ra quyết định xử phạt vi phạm hành chính mà người có thẩm quyền xử phạt đã tạm giữ được giấy phép, chứng chỉ hành nghề của cá nhân, tổ chức vi phạm thì thời điểm bắt đầu tính thời hạn tước quyền sử dụng giấy phép, chứng chỉ hành nghề là thời điểm quyết định xử phạt vi phạm hành chính có hiệu lực thi hành;
+b) Trường hợp tại thời điểm ra quyết định xử phạt vi phạm hành chính mà người có thẩm quyền xử phạt chưa tạm giữ được giấy phép, chứng chỉ hành nghề của cá nhân, tổ chức vi phạm thì người có thẩm quyền xử phạt vẫn ra quyết định xử phạt vi phạm hành chính theo quy định đối với hành vi vi phạm. Trong nội dung quyết định xử phạt phải ghi rõ thời điểm bắt đầu tính hiệu lực thi hành của hình thức xử phạt bổ sung tước quyền sử dụng giấy phép, chứng chỉ hành nghề là kể từ thời điểm mà người vi phạm xuất trình giấy phép, chứng chỉ hành nghề cho người có thẩm quyền xử phạt tạm giữ;
+c) Khi tạm giữ giấy phép, chứng chỉ hành nghề bị tước quyền sử dụng theo quy định tại điểm b khoản này và khi trả giấy phép, chứng chỉ hành nghề bị tước quyền sử dụng theo quy định tại điểm a, điểm b khoản này, người có thẩm quyền xử phạt phải lập biên bản và lưu hồ sơ xử phạt vi phạm hành chính.
+4. Trong thời gian bị tước quyền sử dụng giấy phép, chứng chỉ hành nghề, nếu cá nhân, tổ chức vẫn tiến hành các hoạt động ghi trong giấy phép, chứng chỉ hành nghề thì bị xử phạt như hành vi không có giấy phép, chứng chỉ hành nghề.
+5. Trường hợp người có hành vi vi phạm bị áp dụng hình thức xử phạt tước quyền sử dụng giấy phép, chứng chỉ hành nghề nhưng thời hạn sử dụng còn lại của giấy phép, chứng chỉ hành nghề đó ít hơn thời hạn bị tước thì người có thẩm quyền vẫn ra quyết định xử phạt có áp dụng hình thức tước quyền sử dụng giấy phép, chứng chỉ hành nghề theo quy định đối với hành vi vi phạm. Trong thời gian bị tước quyền sử dụng giấy phép, chứng chỉ hành nghề, cá nhân, tổ chức không được làm thủ tục cấp đổi, cấp mới giấy phép, chứng chỉ hành nghề.
+6. Tước quyền sử dụng Giấy phép lái xe quốc tế
+a) Thời hạn tước quyền sử dụng Giấy phép lái xe quốc tế do các nước tham gia Công ước về Giao thông đường bộ năm 1968 cấp (trừ giấy phép lái xe quốc tế do Việt Nam cấp) thực hiện theo quy định tại khoản 2 Điều này nhưng không quá thời hạn cư trú còn lại tại Việt Nam của người bị tước quyền sử dụng Giấy phép lái xe quốc tế;
+b) Người điều khiển phương tiện sử dụng Giấy phép lái xe quốc tế do các nước tham gia Công ước về Giao thông đường bộ năm 1968 cấp có trách nhiệm xuất trình các giấy tờ chứng minh thời gian cư trú còn lại tại Việt Nam (chứng nhận tạm trú, thẻ tạm trú, thẻ thường trú) cho người có thẩm quyền xử phạt để làm cơ sở xác định thời hạn tước quyền sử dụng Giấy phép lái xe quốc tế.
+Điều 82. Tạm giữ phương tiện, giấy tờ có liên quan đến người điều khiển và phương tiện vi phạm
+1.[182] Để ngăn chặn ngay vi phạm hành chính, người có thẩm quyền được phép tạm giữ phương tiện trước khi ra quyết định xử phạt theo quy định tại khoản 2, khoản 8 Điều 125 Luật Xử lý vi phạm hành chính (được sửa đổi, bổ sung năm 2020) đối với những hành vi vi phạm được quy định tại các điều, khoản, điểm sau đây của Nghị định này:
+a) Điểm c khoản 6; điểm a, điểm c khoản 8; khoản 10 Điều 5;
+b) Điểm b, điểm c khoản 6; điểm c khoản 7; điểm a, điểm b, điểm c, điểm d, điểm e, điểm g, điểm h, điểm i khoản 8; khoản 9 Điều 6;
+c) Điểm c khoản 6; điểm b khoản 7; điểm a, điểm b khoản 8; khoản 9 Điều 7;
+d) Điểm q khoản 1; điểm e khoản 3; điểm a, điểm c, điểm d, điểm đ (trong trường hợp người vi phạm là người dưới 16 tuổi và điều khiển phương tiện), điểm g (trong trường hợp người vi phạm là người dưới 16 tuổi và điều khiển phương tiện) khoản 4 Điều 8;
+đ) Khoản 9 Điều 11;
+e) Điểm a, điểm b khoản 4; khoản 5; điểm a, điểm b, điểm c khoản 6 Điều 16;
+
+Now here is the question you need to answer.
+
+Question: khi đi xe máy, để quên giấy tờ xe và không có giấy tờ xe có bị phạt giống nhau không? 
+
+
+#answer:
+
+
+ Không giống nhau. Trường hợp không mang giấy tờ xe sẽ bị phạt từ 100.000 đồng đến 200.000 đồng. Trường hợp không có giấy tờ xe sẽ bị phạt từ 800.000 đồng đến 1.000.000 đồng.

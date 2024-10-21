@@ -1,0 +1,155 @@
+#question_prompt:
+
+
+ Using the information contained in the context,
+give a comprehensive answer to the question.
+Respond only to the question asked, response should be concise and relevant to the question.
+Provide the number of the source document when relevant.
+If the answer cannot be deduced from the context, do not give an answer.
+
+Context:
+h)[20] (được bãi bỏ)
+i) Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h.
+6. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h;
+b)[21] Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+7. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+9. Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng đối với hành vi vi phạm quy định tại điểm b khoản 7 Điều này mà không chấp hành hiệu lệnh dừng xe của người thi hành công vụ hoặc gây tai nạn giao thông.
+10. Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+b) Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+c) Điều khiển xe trên đường mà trong cơ thể có chất ma túy;
+d) Không chấp hành yêu cầu kiểm tra về chất ma túy của người thi hành công vụ.
+11. Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm e khoản 4 Điều này bị tịch thu thiết bị phát tín hiệu ưu tiên lắp đặt sử dụng trái quy định;
+4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng[32] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h;
+b) Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định;
+c) Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm h khoản 3 Điều này;
+d) Vượt xe trong hầm đường bộ không đúng nơi quy định; quay đầu xe trong hầm đường bộ;
+đ)[33] (được bãi bỏ)
+e) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;
+g) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+h) Người đang điều khiển xe sử dụng ô (dù), điện thoại di động, thiết bị âm thanh, trừ thiết bị trợ thính.
+5.[34] Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+7. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe đăng ký tạm, xe có phạm vi hoạt động hạn chế hoạt động quá phạm vi, thời hạn cho phép;
+b) Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) quá niên hạn sử dụng tham gia giao thông (đối với loại xe có quy định về niên hạn sử dụng);
+c) Điều khiển loại xe sản xuất, lắp ráp trái quy định tham gia giao thông (bao gồm cả xe công nông thuộc diện bị đình chỉ tham gia giao thông, rơ moóc và sơ mi rơ moóc được kéo theo).
+8. Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm a, điểm b khoản 3; khoản 4; khoản 5; điểm c khoản 6; điểm a khoản 7 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+b) Thực hiện hành vi quy định tại điểm a khoản 3, điểm d khoản 4 Điều này bị tịch thu đèn lắp thêm, còi vượt quá âm lượng;
+c) Điều khiển xe không gắn biển số (đối với loại xe có quy định phải gắn biển số); gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp;
+d)[56] Điều khiển xe gắn biển số không đúng quy định; gắn biển số không rõ chữ, số; gắn biển số bị bẻ cong, bị che lấp, bị hỏng; sơn, dán thêm làm thay đổi chữ, số hoặc thay đổi màu sắc của chữ, số, nền biển.
+3. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng[57] đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe đăng ký tạm hoạt động quá phạm vi, thời hạn cho phép;
+b) Điều khiển loại xe sản xuất, lắp ráp trái quy định tham gia giao thông.
+4. Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm d khoản 1 Điều này bị tịch thu còi;
+b) Thực hiện hành vi quy định tại điểm b, điểm c khoản 2 Điều này bị tịch thu Giấy đăng ký xe, biển số không đúng quy định hoặc bị tẩy xóa;
+2. Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe không có đủ đèn chiếu sáng, đèn soi biển số, đèn báo hãm, đèn tín hiệu, cần gạt nước, gương chiếu hậu, dây an toàn, dụng cụ thoát hiểm, thiết bị chữa cháy, đồng hồ báo áp lực hơi, đồng hồ báo tốc độ của xe hoặc có những thiết bị đó nhưng không có tác dụng, không đúng tiêu chuẩn thiết kế (đối với loại xe được quy định phải có những thiết bị đó), trừ các hành vi vi phạm quy định tại điểm m khoản 3 Điều 23, điểm q khoản 4 Điều 28 Nghị định này;
+b) Điều khiển xe không có còi hoặc có nhưng còi không có tác dụng;
+c) Điều khiển xe không có bộ phận giảm thanh, giảm khói hoặc có nhưng không có tác dụng, không bảo đảm quy chuẩn môi trường về khí thải, tiếng ồn.
+3. Phạt tiền từ từ 1.000.000 đồng đến 2.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe lắp thêm đèn phía trước, phía sau, trên nóc, dưới gầm, một hoặc cả hai bên thành xe;
+b) Điều khiển xe có hệ thống chuyển hướng của xe không đúng tiêu chuẩn an toàn kỹ thuật;
+b) Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) không gắn biển số (đối với loại xe có quy định phải gắn biển số);
+c) Điều khiển xe ô tô tải (kể cả rơ moóc và sơ mi rơ moóc) có kích thước thùng xe không đúng với thông số kỹ thuật được ghi trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe;
+d) Điều khiển xe lắp đặt, sử dụng còi vượt quá âm lượng theo quy định.
+5. Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe có Giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường nhưng đã hết hạn sử dụng dưới 01 tháng (kể cả rơ moóc và sơ mi rơ moóc);
+b) Điều khiển xe không đủ hệ thống hãm hoặc có đủ hệ thống hãm nhưng không có tác dụng, không đúng tiêu chuẩn an toàn kỹ thuật (kể cả rơ moóc và sơ mi rơ moóc). 
+6. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+7. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tổ chức quản lý, vận hành trạm thu phí đường bộ thực hiện một trong các hành vi vi phạm sau đây:
+a) Không thực hiện đúng quy trình quản lý, vận hành theo quy định để số lượng xe ô tô xếp hàng chờ trước trạm thu phí trên một làn xe chờ dài nhất lớn hơn 150 xe đến 200 xe hoặc để chiều dài dòng xe xếp hàng chờ trước trạm thu phí (tính từ cabin thu phí đến xe cuối cùng của hàng xe chờ) lớn hơn 1.000 m đến 2.000 m;
+b) Không thực hiện đúng quy trình quản lý, vận hành theo quy định để thời gian đi qua trạm thu phí của một xe ô tô bất kỳ kể từ lúc dừng xe chờ thu phí đến lúc ra khỏi trạm thu phí lớn hơn 20 phút đến 30 phút.
+8. Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với tổ chức quản lý, vận hành trạm thu phí đường bộ thực hiện một trong các hành vi vi phạm sau đây:
+a) Không thực hiện đúng quy trình quản lý, vận hành theo quy định để số lượng xe ô tô xếp hàng chờ trước trạm thu phí trên một làn xe chờ dài nhất lớn hơn 200 xe hoặc để chiều dài dòng xe xếp hàng chờ trước trạm thu phí (tính từ cabin thu phí đến xe cuối cùng của hàng xe chờ) lớn hơn 2.000 m;
+e) Điều khiển xe không có đèn chiếu sáng gần, xa hoặc có nhưng không có tác dụng, không đúng tiêu chuẩn thiết kế;
+g) Điều khiển xe không có hệ thống hãm hoặc có nhưng không có tác dụng, không bảo đảm tiêu chuẩn kỹ thuật;
+h) Điều khiển xe lắp đèn chiếu sáng về phía sau xe.
+2. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng[55] đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe không có Giấy đăng ký xe theo quy định hoặc sử dụng Giấy đăng ký xe đã hết hạn sử dụng;
+b) Sử dụng Giấy đăng ký xe đã bị tẩy xóa; sử dụng Giấy đăng ký xe không đúng số khung, số máy của xe hoặc không do cơ quan có thẩm quyền cấp;
+c) Điều khiển xe không gắn biển số (đối với loại xe có quy định phải gắn biển số); gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp;
+d)[22] Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; không có báo hiệu để người lái xe khác biết khi buộc phải dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; quay đầu xe trên đường cao tốc;
+8. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc, trừ các xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+b) Gây tai nạn giao thông không dừng lại, không giữ nguyên hiện trường, bỏ trốn không đến trình báo với cơ quan có thẩm quyền, không tham gia cấp cứu người bị nạn;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+9. Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng đối với hành vi vi phạm quy định tại điểm b khoản 7 Điều này mà không chấp hành hiệu lệnh dừng xe của người thi hành công vụ hoặc gây tai nạn giao thông.
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi điều khiển xe không có đăng ký, không gắn biển số (đối với loại xe có quy định phải đăng ký và gắn biển số).
+2. Phạt tiền từ 300.000 đồng đến 400.000 đồng[58] đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe không có hệ thống hãm hoặc có nhưng không có tác dụng;
+b) Điều khiển xe thô sơ chở khách, chở hàng không bảo đảm tiêu chuẩn về tiện nghi và vệ sinh theo quy định của địa phương.
+Điều 19. Xử phạt người điều khiển máy kéo (kể cả rơ moóc được kéo theo), xe máy chuyên dùng vi phạm quy định về điều kiện của phương tiện khi tham gia giao thông
+1. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng[59] đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe gắn biển số không đúng vị trí; gắn biển số không rõ chữ, số; gắn biển số bị bẻ cong, bị che lấp, bị hỏng; sơn, dán thêm làm thay đổi chữ, số hoặc thay đổi màu sắc của chữ, số, nền biển;
+b) Điều khiển xe không có hệ thống hãm hoặc có hệ thống hãm nhưng không bảo đảm tiêu chuẩn kỹ thuật; điều khiển xe có hệ thống chuyển hướng không bảo đảm tiêu chuẩn kỹ thuật;
+q) Chở người trên xe ô tô không thắt dây an toàn (tại vị trí có trang bị dây an toàn) khi xe đang chạy;
+r) Chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần;
+s) Điều khiển xe chạy dưới tốc độ tối thiểu trên những đoạn đường bộ có quy định tốc độ tối thiểu cho phép.
+4. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng[16] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Dùng tay sử dụng điện thoại di động khi đang điều khiển xe chạy trên đường;
+b) Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm c khoản 5, điểm a khoản 8 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+c)[17] Điều khiển xe không đủ điều kiện để thu phí theo hình thức điện tử tự động không dừng (xe không gắn thẻ đầu cuối hoặc gắn thẻ đầu cuối mà số tiền trong tài khoản thu phí không đủ để chi trả khi qua làn thu phí điện tử tự động không dừng) đi vào làn đường dành riêng thu phí theo hình thức điện tử tự động không dừng tại các trạm thu phí;
+7. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 1, khoản 2, khoản 3, khoản 4, khoản 5 Điều này nếu gây hư hại cầu, đường còn bị áp dụng biện pháp khắc phục hậu quả: Buộc phải khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra.
+Điều 34. Xử phạt người đua xe trái phép, cổ vũ đua xe trái phép
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Tụ tập để cổ vũ, kích động hành vi điều khiển xe chạy quá tốc độ quy định, lạng lách, đánh võng, đuổi nhau trên đường hoặc đua xe trái phép;
+b) Đua xe đạp, đua xe đạp máy, đua xe xích lô, đua xe súc vật kéo, cưỡi súc vật chạy đua trái phép trên đường giao thông.
+2.[115] Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với người đua xe mô tô, xe gắn máy, xe máy điện trái phép.
+3.[116] Phạt tiền từ 20.000.000 đồng đến 25.000.000 đồng đối với người đua xe ô tô trái phép.
+4. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+c) Điều khiển xe không có Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định, trừ xe đăng ký tạm thời) hoặc có nhưng đã hết hạn sử dụng từ 01 tháng trở lên (kể cả rơ moóc);
+d) Điều khiển xe không có Giấy đăng ký xe hoặc sử dụng Giấy đăng ký xe đã hết hạn sử dụng (kể cả rơ moóc);
+đ) Điều khiển xe không gắn biển số (đối với loại xe có quy định phải gắn biển số); gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp (kể cả rơ moóc);
+e) Sử dụng Giấy đăng ký xe, Giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa; sử dụng Giấy đăng ký xe không đúng số khung, số máy của xe (kể cả rơ moóc).
+3. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm b khoản 2 Điều này bị tịch thu phương tiện;
+7. Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe chạy quá tốc độ quy định trên 20 km/h;
+b) Không chú ý quan sát, điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông; đi vào đường cao tốc, dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông, trừ hành vi vi phạm quy định tại điểm d khoản 8 Điều này;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+8. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+5.[34] Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”, trừ hành vi vi phạm quy định tại điểm b khoản 6 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+b) Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ.
+6. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy;
+b) Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+7. Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+b) Đưa phương tiện không có Giấy đăng ký xe tham gia giao thông hoặc có nhưng đã hết hạn sử dụng; đưa phương tiện có Giấy chứng nhận đăng ký xe tạm thời, phương tiện có phạm vi hoạt động hạn chế tham gia giao thông quá thời hạn, tuyến đường, phạm vi cho phép.
+11. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với cá nhân, từ 32.000.000 đồng đến 36.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô khi giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 7 Điều 24 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 7 Điều 24 Nghị định này.
+12.[109] Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng đối với cá nhân, từ 36.000.000 đồng đến 40.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a, điểm b khoản 8 Điều 24 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a, điểm b khoản 8 Điều 24 Nghị định này;
+k) Đưa phương tiện không gắn biển số (đối với loại xe có quy định phải gắn biển số) tham gia giao thông; đưa phương tiện gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp tham gia giao thông.
+6.[97] Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng trên mỗi người vượt quá quy định được phép chở của phương tiện nhưng tổng mức phạt tiền tối đa không vượt quá 75.000.000 đồng đối với chủ phương tiện là cá nhân, từ 2.000.000 đồng đến 4.000.000 đồng trên mỗi người vượt quá quy định được phép chở của phương tiện nhưng tổng mức phạt tiền tối đa không vượt quá 150.000.000 đồng đối với chủ phương tiện là tổ chức giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 4 Điều 23 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 4 Điều 23 Nghị định này.
+7. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 8.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+b) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+8. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Lùi xe trên đường cao tốc; đi ngược chiều trên đường cao tốc;
+b) Điều khiển xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70 km/h, máy kéo đi vào đường cao tốc, trừ phương tiện, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc;
+c) Gây tai nạn giao thông không dừng lại, không giữ nguyên hiện trường, bỏ trốn không đến trình báo với cơ quan có thẩm quyền, không tham gia cấp cứu người bị nạn.
+9. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+b) Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+8. Phạt tiền từ 8.000.000 đồng đến 12.000.000 đồng đối với một trong các hành vi sau đây:
+a) Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) chở hàng vượt trọng tải (khối lượng hàng chuyên chở) cho phép tham gia giao thông được ghi trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe trên 150%;
+b) Điều khiển xe kéo theo rơ moóc, sơ mi rơ moóc mà khối lượng toàn bộ (bao gồm khối lượng bản thân rơ moóc, sơ mi rơ moóc và khối lượng hàng chuyên chở) của rơ moóc, sơ mi rơ moóc vượt khối lượng cho phép kéo theo được ghi trong giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe trên 150%;
+c) Vi phạm quy định tại khoản 1, điểm c khoản 4 Điều này mà gây tai nạn giao thông.
+8a.[76] Phạt tiền từ 10.000.000 đồng đến 12.000.0000 đồng đối với người điều khiển xe thực hiện hành vi nhận, trả hàng trên đường cao tốc.
+9. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+
+Now here is the question you need to answer.
+
+Question: ô tô vượt đèn đỏ bị phạt bao nhiêu tiền? 
+
+
+#answer:
+
+
+ Không có thông tin cụ thể về mức phạt cho hành vi "ô tô vượt đèn đỏ" trong văn bản đã cung cấp. Tuy nhiên, có thông tin về mức phạt cho hành vi "không chấp hành hiệu lệnh của đèn tín hiệu giao thông" tại điểm e khoản 4 là từ 800.000 đồng đến 1.000.000 đồng.

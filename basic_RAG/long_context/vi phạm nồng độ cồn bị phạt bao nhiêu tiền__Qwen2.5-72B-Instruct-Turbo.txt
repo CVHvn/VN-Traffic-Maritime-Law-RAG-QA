@@ -1,0 +1,423 @@
+#question_prompt:
+
+
+ Using the information contained in the context,
+give a comprehensive answer to the question.
+Respond only to the question asked, response should be concise and relevant to the question.
+Provide the number of the source document when relevant.
+If the answer cannot be deduced from the context, do not give an answer.
+
+Context:
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+8. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Buông cả hai tay khi đang điều khiển xe; dùng chân điều khiển xe; ngồi về một bên điều khiển xe; nằm trên yên xe điều khiển xe; thay người điều khiển khi xe đang chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe;
+b) Điều khiển xe lạng lách hoặc đánh võng trên đường bộ trong, ngoài đô thị;
+c) Điều khiển xe chạy bằng một bánh đối với xe hai bánh, chạy bằng hai bánh đối với xe ba bánh;
+d) Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ quy định;
+đ) Gây tai nạn giao thông không dừng lại, không giữ nguyên hiện trường, bỏ trốn không đến trình báo với cơ quan có thẩm quyền, không tham gia cấp cứu người bị nạn;
+e) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+g) Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+h) Điều khiển xe trên đường mà trong cơ thể có chất ma túy;
+i) Không chấp hành yêu cầu kiểm tra về chất ma túy của người thi hành công vụ.
+9. Phạt tiền từ 10.000.000 đồng đến 14.000.000 đồng đối với hành vi vi phạm quy định tại điểm a, điểm b, điểm c, điểm d khoản 8 Điều này mà gây tai nạn giao thông hoặc không chấp hành hiệu lệnh dừng xe của người thi hành công vụ.
+10. Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm g khoản 2 Điều này bị tịch thu thiết bị phát tín hiệu ưu tiên lắp đặt, sử dụng trái quy định;
+b) Thực hiện hành vi quy định tại điểm b, điểm e, điểm i khoản 3;[35] điểm e, điểm g, điểm h khoản 4; khoản 5 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+c)[36] Thực hiện hành vi quy định tại điểm a khoản 6; điểm a, điểm b khoản 7; điểm a, điểm b, điểm c, điểm d khoản 8 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng; tái phạm hoặc vi phạm nhiều lần hành vi quy định tại điểm a, điểm b, điểm c, điểm d khoản 8 Điều này bị tịch thu phương tiện. Thực hiện hành vi quy định tại một trong các điểm, khoản sau của Điều này mà gây tai nạn giao thông thì bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng: điểm a, điểm g, điểm h, điểm k, điểm l, điểm m, điểm n, điểm q khoản 1; điểm b, điểm d, điểm e, điểm g, điểm l, điểm m khoản 2; điểm a, điểm b, điểm c, điểm k, điểm m khoản 3; điểm e, điểm g, điểm h khoản 4; điểm b khoản 5 Điều này;
+d) Thực hiện hành vi quy định tại điểm b khoản 6; điểm đ khoản 8; khoản 9 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 03 tháng đến 05 tháng;
+đ) Thực hiện hành vi quy định tại điểm c khoản 6 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 10 tháng đến 12 tháng;
+e) Thực hiện hành vi quy định tại điểm c khoản 7 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 16 tháng đến 18 tháng;
+g) Thực hiện hành vi quy định tại điểm e, điểm g, điểm h, điểm i khoản 8 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 22 tháng đến 24 tháng.
+Điều 7. Xử phạt người điều khiển máy kéo, xe máy chuyên dùng (sau đây gọi chung là xe) vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+5. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng[39] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Lùi xe, quay đầu xe trong hầm đường bộ;
+b) Không thực hiện biện pháp bảo đảm an toàn theo quy định khi phương tiện bị hư hỏng trên đoạn đường bộ giao nhau cùng mức với đường sắt;
+c) Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định;
+d) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+đ) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.
+6. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; không có báo hiệu để người lái xe khác biết khi buộc phải dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; quay đầu xe trên đường cao tốc;
+b) Chạy quá tốc độ quy định trên 20 km/h;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+7. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không chú ý quan sát, điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông; dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông, trừ các hành vi vi phạm quy định tại điểm a, điểm b khoản 8 Điều này;
+b) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+8. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Lùi xe trên đường cao tốc; đi ngược chiều trên đường cao tốc;
+b) Điều khiển xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70 km/h, máy kéo đi vào đường cao tốc, trừ phương tiện, thiết bị phục vụ việc quản lý, bảo trì đường cao tốc;
+c) Gây tai nạn giao thông không dừng lại, không giữ nguyên hiện trường, bỏ trốn không đến trình báo với cơ quan có thẩm quyền, không tham gia cấp cứu người bị nạn.
+9. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+b) Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+c) Điều khiển xe trên đường mà trong cơ thể có chất ma túy;
+d) Không chấp hành yêu cầu kiểm tra về chất ma túy của người thi hành công vụ.
+10. Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm b, điểm c, điểm g khoản 3; điểm a, điểm c, điểm d, điểm e khoản 4; khoản 5 Điều này bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 01 tháng đến 03 tháng;
+5. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng[19] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;
+b) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+c) Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”, trừ các hành vi vi phạm quy định tại điểm a khoản 8 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+d) Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt (đối với loại phương tiện đang điều khiển); không có báo hiệu trước khi vượt; vượt bên phải xe khác trong trường hợp không được phép, trừ trường hợp tại đoạn đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường mà xe chạy trên làn đường bên phải chạy nhanh hơn xe đang chạy trên làn đường bên trái;
+đ) Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (làn cùng chiều hoặc làn ngược chiều) trừ hành vi quy định tại điểm c khoản 4 Điều này; điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy; điều khiển xe đi trên hè phố, trừ trường hợp điều khiển xe đi qua hè phố để vào nhà;
+e) Tránh xe đi ngược chiều không đúng quy định, trừ hành vi vi phạm sử dụng đèn chiếu xa khi tránh xe đi ngược chiều quy định tại điểm g khoản 3 Điều này; không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật;
+g) Không tuân thủ các quy định khi vào hoặc ra đường cao tốc; điều khiển xe chạy ở làn dừng xe khẩn cấp hoặc phần lề đường của đường cao tốc; chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước khi chạy trên đường cao tốc; không tuân thủ quy định về khoảng cách an toàn đối với xe chạy liền trước khi chạy trên đường cao tốc;
+h)[20] (được bãi bỏ)
+i) Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h.
+6. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h;
+b)[21] Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+7. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không chú ý quan sát, điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông; dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông, trừ các hành vi vi phạm quy định tại điểm a khoản 8 Điều này;
+b) Điều khiển xe lạng lách, đánh võng; chạy quá tốc độ đuổi nhau trên đường bộ; dùng chân điều khiển vô lăng xe khi xe đang chạy trên đường;
+c) Điều khiển xe chạy quá tốc độ quy định trên 35 km/h;
+d)[22] Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; không có báo hiệu để người lái xe khác biết khi buộc phải dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; quay đầu xe trên đường cao tốc;
+8. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+Chương II
+HÀNH VI VI PHẠM, HÌNH THỨC, MỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG BỘ
+Mục 1. VI PHẠM QUY TẮC GIAO THÔNG ĐƯỜNG BỘ
+Điều 5. Xử phạt người điều khiển xe ô tô và các loại xe tương tự xe ô tô vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 300.000 đồng đến 400.000 đồng[11] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường, trừ các hành vi vi phạm quy định tại điểm a, điểm d, điểm g, điểm h, điểm i, điểm k khoản 2; điểm a, điểm d, điểm đ, điểm e, điểm k, điểm l, điểm o, điểm r, điểm s khoản 3; điểm b, điểm c, điểm d, điểm đ, điểm I khoản 4; điểm a, điểm c, điểm d, điểm đ, điểm e, điểm g, điểm i khoản 5; điểm a khoản 6; điểm a, điểm c, điểm d khoản 7[12]; điểm a khoản 8 Điều này;
+b) Chuyển hướng không nhường quyền đi trước cho: Người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+c) Chuyển hướng không nhường đường cho: Các xe đi ngược chiều; người đi bộ, xe lăn của người khuyết tật đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
+d) Khi dừng xe, đỗ xe không có tín hiệu báo cho người điều khiển phương tiện khác biết;
+đ) Khi đỗ xe chiếm một phần đường xe chạy không đặt ngay báo hiệu nguy hiểm theo quy định, trừ hành vi vi phạm quy định tại điểm c khoản 6 Điều này và trường hợp đỗ xe tại vị trí quy định được phép đỗ xe;
+e) Không gắn biển báo hiệu ở phía trước xe kéo, phía sau xe được kéo; điều khiển xe kéo rơ moóc không có biển báo hiệu theo quy định;
+g) Bấm còi trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định.
+2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước, trừ các hành vi vi phạm quy định tại điểm g khoản 5 Điều này;
+b) Điều khiển xe chạy tốc độ thấp hơn các xe khác đi cùng chiều mà không đi về bên phải phần đường xe chạy, trừ trường hợp các xe khác đi cùng chiều chạy quá tốc độ quy định;
+c) Chở người trên buồng lái quá số lượng quy định;
+d) Không tuân thủ các quy định về nhường đường tại nơi đường bộ giao nhau, trừ các hành vi vi phạm quy định tại điểm m, điểm n khoản 3 Điều này;
+đ) Điều khiển xe có liên quan trực tiếp đến vụ tai nạn giao thông mà không dừng lại, không giữ nguyên hiện trường, không tham gia cấp cứu người bị nạn, trừ hành vi vi phạm quy định tại điểm b khoản 8 Điều này;
+e) Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có giấy phép của cơ quan có thẩm quyền cấp hoặc có giấy phép của cơ quan có thẩm quyền cấp nhưng không còn giá trị sử dụng theo quy định;
+g) Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng; dừng xe, đỗ xe không sát mép đường phía bên phải theo chiều đi ở nơi đường có lề đường hẹp hoặc không có lề đường; dừng xe, đỗ xe ngược với chiều lưu thông của làn đường; dừng xe, đỗ xe trên dải phân cách cố định ở giữa hai phần đường xe chạy; đỗ xe trên dốc không chèn bánh; mở cửa xe, để cửa xe mở không bảo đảm an toàn;
+b) Phạt tiền đến 15.000.000 đồng đối với hành vi vi phạm trong lĩnh vực giao thông đường bộ, đường sắt;
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+d) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị không vượt quá 30.000.000 đồng;
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, điểm c và điểm e khoản 1 Điều 4 Nghị định này.
+5. Giám đốc Công an cấp tỉnh có quyền:
+a) Phạt cảnh cáo;
+b) Phạt tiền đến 37.500.000 đồng đối với hành vi vi phạm trong lĩnh vực giao thông đường bộ, đường sắt;
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+d) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính;
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại các điểm a, điểm c, điểm đ và điểm e khoản 1 Điều 4 Nghị định này.
+6. Cục trưởng Cục Cảnh sát giao thông, Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội, Cục trưởng Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ, Tư lệnh Cảnh sát cơ động có quyền:
+a) Phạt cảnh cáo;
+b) Phạt tiền đến 75.000.000 đồng đối với hành vi vi phạm trong lĩnh vực giao thông đường bộ, đường sắt;
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+d) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính;
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại các điểm a, điểm c, điểm đ và điểm e khoản 1 Điều 4 Nghị định này
+Điều 77. Thẩm quyền xử phạt của Thanh tra chuyên ngành, Cảng vụ hàng hải, Cảng vụ hàng không, Cảng vụ đường thủy nội địa [164]
+1. Thanh tra viên, người được giao thực hiện nhiệm vụ thanh tra chuyên ngành đang thi hành công vụ có quyền:
+a) Phạt cảnh cáo;
+b) Phạt tiền đến 500.000 đồng đối với hành vi vi phạm trong lĩnh vực giao thông đường bộ, đường sắt;
+c) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị không vượt quá 1.000.000 đồng;
+d) Áp dụng các biện pháp khắc phục hậu quả quy định tại các điểm a và điểm c khoản 1 Điều 4 Nghị định này.
+2. Chánh Thanh tra Sở Giao thông vận tải, Chánh Thanh tra Sở Tài nguyên và Môi trường, Chánh Thanh tra Cục Hàng không Việt Nam, Chánh Thanh tra Cục Hàng hải Việt Nam, Thủ trưởng cơ quan quản lý đường bộ ở khu vực thuộc Tổng cục Đường bộ Việt Nam, Trưởng đoàn thanh tra chuyên ngành của Sở Giao thông vận tải, Trưởng đoàn thanh tra chuyên ngành của Sở Tài nguyên và Môi trường, Trưởng đoàn thanh tra chuyên ngành của Tổng cục Môi trường, Trưởng đoàn thanh tra chuyên ngành của Tổng cục Đường bộ Việt Nam, Trưởng đoàn thanh tra chuyên ngành của Cục Đường sắt Việt Nam, Trưởng đoàn thanh tra chuyên ngành của cơ quan quản lý đường bộ ở khu vực thuộc Tổng cục Đường bộ Việt Nam có quyền:
+a) Phạt cảnh cáo;
+b) Phạt tiền đến 37.500.000 đồng đối với hành vi vi phạm trong lĩnh vực giao thông đường bộ, đường sắt;
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+d) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị không vượt quá 75.000.000 đồng;
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 1 Điều 4 Nghị định này.
+3. Trưởng đoàn thanh tra chuyên ngành của Bộ Giao thông vận tải, Trưởng đoàn thanh tra chuyên ngành của Bộ Tài nguyên và Môi trường có quyền:
+a) Phạt cảnh cáo;
+b) Phạt tiền đến 52.500.000 đồng đối với hành vi vi phạm trong lĩnh vực giao thông đường bộ, đường sắt;
+[17] Điểm này được sửa đổi theo quy định tại điểm b khoản 3 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[18] Cụm từ “điểm b khoản 6” được thay bằng cụm từ “điểm d khoản 7” theo quy định tại điểm b khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[19] Cụm từ “3.000.000 đồng đến 5.000.000 đồng” được thay bằng cụm từ “4.000.000 đồng đến 6.000.000 đồng” theo quy định tại điểm đ khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[20] Điểm này được bãi bỏ theo quy định tại điểm a khoản 36 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[21] Điểm này được sửa đổi theo quy định tại điểm c khoản 3 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[22] Điểm này được bổ sung theo quy định tại điểm d khoản 3 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[23] Cụm từ “điểm h, điểm i khoản 5” được thay bằng cụm từ “điểm i khoản 5” theo quy định tại điểm c khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[24] Cụm từ “hoặc tái phạm hành vi quy định tại điểm b khoản 7 Điều này,” được bỏ theo quy định tại điểm b khoản 35 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[25] Cụm từ “điểm d, điểm g, điểm i, điểm m khoản 3” được thay bằng cụm từ “điểm a, điểm d, điểm g, điểm i, điểm m khoản 3” theo quy định tại điểm e khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[26] Cụm từ “200.000 đồng đến 300.000 đồng” được thay bằng cụm từ “300.000 đồng đến 400.000 đồng” theo quy định tại điểm k khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+b) Thực hiện hành vi quy định tại khoản 2, khoản 3 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng;
+c) Thực hiện hành vi quy định tại điểm a khoản 3 Điều này bị tịch thu Giấy phép lưu hành đã hết giá trị sử dụng hoặc không do cơ quan có thẩm quyền cấp.
+5. Ngoài việc bị áp dụng hình thức xử phạt, người thực hiện hành vi vi phạm quy định tại khoản 1, khoản 2, khoản 3 Điều này nếu gây hư hại cầu, đường còn bị áp dụng biện pháp khắc phục hậu quả: Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra.
+Điều 26. Xử phạt người điều khiển xe ô tô thực hiện hành vi vi phạm quy định về vận chuyển chất gây ô nhiễm môi trường, hàng nguy hiểm
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Vận chuyển hàng nguy hiểm mà dừng xe, đỗ xe ở nơi đông người, khu dân cư, công trình quan trọng; không có báo hiệu hàng nguy hiểm theo quy định, trừ các hành vi vi phạm quy định tại khoản 2 Điều này;
+b) Vận chuyển các chất gây ô nhiễm môi trường không theo đúng quy định về bảo vệ môi trường, trừ các hành vi vi phạm quy định tại khoản 2 Điều này.
+2. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi vận chuyển hàng nguy hiểm không có giấy phép hoặc có nhưng không thực hiện đúng quy định trong giấy phép, trừ các hành vi vi phạm quy định tại điểm a khoản 6 Điều 23 Nghị định này.
+3. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 1, khoản 2 Điều này còn bị áp dụng hình thức xử phạt bổ sung tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng.
+4. Ngoài việc bị áp dụng hình thức xử phạt, người thực hiện hành vi vi phạm quy định tại khoản 1, khoản 2 Điều này nếu gây ô nhiễm môi trường còn bị áp dụng các biện pháp khắc phục hậu quả: Buộc phải thực hiện các biện pháp khắc phục tình trạng ô nhiễm môi trường do vi phạm hành chính gây ra.
+Điều 27. Xử phạt người điều khiển xe vệ sinh môi trường, xe ô tô chở phế thải, vật liệu rời và xe chở hàng khác thực hiện hành vi vi phạm quy định về hoạt động vận tải trong đô thị
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi điều khiển xe không chạy đúng tuyến, phạm vi, thời gian quy định.
+2. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 1 Điều này còn bị áp dụng hình thức xử phạt bổ sung tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng.
+Điều 28. Xử phạt các hành vi vi phạm quy định về vận tải đường bộ, dịch vụ hỗ trợ vận tải đường bộ
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.000.000 đồng đến 2.000.000 đồng đối với tổ chức[79] thực hiện một trong các hành vi vi phạm sau đây:
+a) Xếp hàng hóa lên mỗi xe ô tô (kể cả rơ moóc và sơ mi rơ moóc) vượt quá trọng tải (khối lượng hàng chuyên chở) cho phép tham gia giao thông được ghi trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe trên 10% đến 50% (trừ xe xi téc chở chất lỏng), trên 20% đến 50% đối với xe xi téc chở chất lỏng;
+b) Xếp hàng hóa lên xe ô tô mà không ký xác nhận việc xếp hàng hóa vào Giấy vận tải theo quy định.
+2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với cá nhân, từ 2.000.000 đồng đến 4.000.000 đồng đối với tổ chức kinh doanh vận tải, dịch vụ hỗ trợ vận tải thực hiện một trong các hành vi vi phạm sau đây:
+a) Không niêm yết hoặc niêm yết không chính xác, đầy đủ tên, số điện thoại của đơn vị kinh doanh vận tải ở phần đầu mặt ngoài hai bên thân hoặc mặt ngoài hai bên cánh cửa xe ô tô chở hành khách theo quy định, trừ hành vi vi phạm quy định tại điểm d khoản 4 Điều này;
+l) Không tuân thủ các quy định về dừng xe, đỗ xe tại nơi đường bộ giao nhau cùng mức với đường sắt, trừ hành vi vi phạm quy định tại điểm b khoản 2, điểm b khoản 3 Điều 49 Nghị định này;
+m) Dùng xe đẩy làm quầy hàng lưu động trên đường, gây cản trở giao thông;
+n) Không nhường đường cho xe đi trên đường ưu tiên, đường chính từ bất kỳ hướng nào tới tại nơi đường giao nhau;
+o) Xe đạp, xe đạp máy, xe xích lô chở quá số người quy định, trừ trường hợp chở người bệnh đi cấp cứu;
+p) Xếp hàng hóa vượt quá giới hạn quy định, không bảo đảm an toàn, gây trở ngại giao thông, che khuất tầm nhìn của người điều khiển;
+q) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe đạp, xe đạp máy buông cả hai tay; chuyển hướng đột ngột trước đầu xe cơ giới đang chạy; dùng chân điều khiển xe đạp, xe đạp máy;
+b) Không chấp hành hiệu lệnh, chỉ dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+c) Người đang điều khiển xe hoặc chở người ngồi trên xe bám, kéo, đẩy xe khác, vật khác, mang vác vật cồng kềnh; điều khiển xe kéo theo xe khác, vật khác;
+d) Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn hoặc gây cản trở đối với xe cơ giới xin vượt, gây cản trở xe ưu tiên;
+đ) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.
+3. Phạt tiền từ 300.000 đồng đến 400.000 đồng[40] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe lạng lách, đánh võng; đuổi nhau trên đường;
+b) Đi xe bằng một bánh đối với xe đạp, xe đạp máy; đi xe bằng hai bánh đối với xe xích lô;
+c) Đi vào khu vực cấm; đường có biển báo hiệu nội dung cấm đi vào đối với loại phương tiện đang điều khiển; đi ngược chiều đường của đường một chiều, đường có biển “Cấm đi ngược chiều”;
+d)[41] (được bãi bỏ)
+đ)[42] (được bãi bỏ)
+e) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+4. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe đi vào đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc;
+b) Gây tai nạn giao thông không dừng lại, không giữ nguyên hiện trường, bỏ trốn không đến trình báo với cơ quan có thẩm quyền, không tham gia cấp cứu người bị nạn;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+d) Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+đ)[43] Người điều khiển xe đạp máy (kể cả xe đạp điện) không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách khi tham gia giao thông trên đường bộ;
+e)[44] Chở người ngồi trên xe đạp máy (kể cả xe đạp điện) không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật.
+3. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Chở hàng vượt khổ giới hạn của cầu, đường ghi trong Giấy phép lưu hành; 
+b) Điều khiển xe bánh xích tham gia giao thông không có Giấy phép lưu hành hoặc có Giấy phép lưu hành nhưng không còn giá trị sử dụng theo quy định hoặc lưu thông trực tiếp trên đường mà không thực hiện biện pháp bảo vệ đường theo quy định;
+c) Điều khiển xe vượt quá khổ giới hạn của cầu, đường hoặc chở hàng vượt khổ giới hạn của cầu, đường tham gia giao thông, trừ trường hợp có Giấy phép lưu hành còn giá trị sử dụng.
+4. Phạt tiền từ 13.000.000 đồng đến 15.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của cầu, đường trên 20% đến 50%, trừ trường hợp có Giấy phép lưu hành còn giá trị sử dụng; 
+b) Điều khiển xe có Giấy phép lưu hành còn giá trị sử dụng nhưng tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe nếu có) vượt quá quy định trong Giấy phép lưu hành; 
+c) Điều khiển xe có Giấy phép lưu hành còn giá trị sử dụng nhưng đi không đúng tuyến đường quy định trong Giấy phép lưu hành.
+5. Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe mà tổng trọng lượng (khối lượng toàn bộ) của xe hoặc tải trọng trục xe (bao gồm cả hàng hóa xếp trên xe, người được chở trên xe) vượt quá tải trọng cho phép của cầu, đường trên 50%, trừ trường hợp có Giấy phép lưu hành còn giá trị sử dụng; 
+b) Không chấp hành việc kiểm tra tải trọng, khổ giới hạn xe khi có tín hiệu, hiệu lệnh yêu cầu kiểm tra tải trọng, khổ giới hạn xe; chuyển tải hoặc dùng các thủ đoạn khác để trốn tránh việc phát hiện xe chở quá tải, quá khổ. 
+6. Ngoài việc bị phạt tiền, người điều khiển phương tiện thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại khoản 1, khoản 3, điểm a khoản 4 Điều này còn bị tước quyền sử dụng Giấy phép lái xe (khi Điều khiển ô tô, máy kéo và các loại xe tương tự ô tô), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông Đường bộ (khi Điều khiển xe máy chuyên dùng) từ 01 tháng Đến 03 tháng;
+b) Thực hiện hành vi quy định tại điểm b, điểm c khoản 4 Điều này còn bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển ô tô, máy kéo và các loại xe tương tự ô tô), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 02 tháng đến 04 tháng;
+c) Thực hiện hành vi quy định tại khoản 5 Điều này còn bị tước quyền sử dụng Giấy phép lái xe (khi điều khiển ô tô, máy kéo và các loại xe tương tự ô tô), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 03 tháng đến 05 tháng.
+7. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 1, khoản 2, khoản 3, khoản 4, khoản 5 Điều này nếu gây hư hại cầu, đường còn bị áp dụng biện pháp khắc phục hậu quả: Buộc phải khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra.
+Điều 34. Xử phạt người đua xe trái phép, cổ vũ đua xe trái phép
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Tụ tập để cổ vũ, kích động hành vi điều khiển xe chạy quá tốc độ quy định, lạng lách, đánh võng, đuổi nhau trên đường hoặc đua xe trái phép;
+[58] Cụm từ “200.000 đồng đến 300.000 đồng” được thay bằng cụm từ “300.000 đồng đến 400.000 đồng” theo quy định tại điểm k khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[59] Cụm từ “300.000 đồng đến 400.000 đồng” được thay bằng cụm từ “800.000 đồng đến 1.000.000 đồng” theo quy định tại điểm m khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[60] Điều này được sửa đổi theo quy định tại khoản 11 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[61] Cụm từ “tổng mức phạt tiền tối đa không vượt quá 40.000.000 đồng” được thay bằng cụm từ “tổng mức phạt tiền tối đa không vượt quá 75.000.000 đồng” theo quy định tại điểm o khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[62] Cụm từ “tổng mức phạt tiền tối đa không vượt quá 40.000.000 đồng” được thay bằng cụm từ “tổng mức phạt tiền tối đa không vượt quá 75.000.000 đồng” theo quy định tại điểm o khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[63] Cụm từ “điểm a khoản 7” được thay bằng cụm từ “khoản 7a” theo quy định tại điểm p khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[64] Cụm từ “điểm a khoản 7” được thay bằng cụm từ “khoản 7a” theo quy định tại điểm p khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[65] Điểm này được bãi bỏ theo quy định tại điểm e khoản 36 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[66] Cụm từ “điểm a khoản 7” được thay bằng cụm từ “khoản 7a” theo quy định tại điểm p khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[67] Điểm này được sửa đổi theo quy định tại điểm a khoản 12 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+d)[22] Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; không có báo hiệu để người lái xe khác biết khi buộc phải dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định; quay đầu xe trên đường cao tốc;
+8. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc, trừ các xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+b) Gây tai nạn giao thông không dừng lại, không giữ nguyên hiện trường, bỏ trốn không đến trình báo với cơ quan có thẩm quyền, không tham gia cấp cứu người bị nạn;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+9. Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng đối với hành vi vi phạm quy định tại điểm b khoản 7 Điều này mà không chấp hành hiệu lệnh dừng xe của người thi hành công vụ hoặc gây tai nạn giao thông.
+10. Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+b) Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;
+c) Điều khiển xe trên đường mà trong cơ thể có chất ma túy;
+d) Không chấp hành yêu cầu kiểm tra về chất ma túy của người thi hành công vụ.
+11. Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm e khoản 4 Điều này bị tịch thu thiết bị phát tín hiệu ưu tiên lắp đặt sử dụng trái quy định;
+b) Thực hiện hành vi quy định tại điểm đ khoản 2; điểm h, điểm i khoản 3; khoản 4; điểm a, điểm b, điểm d, điểm đ, điểm g, điểm i khoản 5[23] Điều này bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+c) Thực hiện hành vi quy định tại điểm c khoản 5; điểm a, điểm b khoản 6; khoản 7 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng. Thực hiện hành vi quy định tại một trong các điểm, khoản sau của Điều này mà gây tai nạn giao thông thì bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng: điểm a, điểm d, điểm đ, điểm e, điểm g khoản 1; điểm b, điểm d, điểm g khoản 2; điểm b, điểm g, điểm h, điểm m, điểm n, điểm r, điểm s khoản 3; điểm a, điểm c, điểm e, điểm g, điểm h khoản 4; điểm a, điểm b, điểm e, điểm g, điểm h khoản 5 Điều này;
+d) Thực hiện hành vi quy định tại khoản 9 Điều này[24] bị tước quyền sử dụng Giấy phép lái xe từ 03 tháng đến 05 tháng;
+đ) Thực hiện hành vi quy định tại điểm a, điểm b khoản 8 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 05 tháng đến 07 tháng;
+e) Thực hiện hành vi quy định tại điểm c khoản 6 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 10 tháng đến 12 tháng;
+g) Thực hiện hành vi quy định tại điểm c khoản 8 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 16 tháng đến 18 tháng;
+h) Thực hiện hành vi quy định tại khoản 10 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 22 tháng đến 24 tháng.
+Điều 6. Xử phạt người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+m) Chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần;
+n)[30] Không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách khi điều khiển xe tham gia giao thông trên đường bộ;
+o)[31] Chở người ngồi trên xe không đội “mũ bảo hiểm cho người đi mô tô, xe máy” hoặc đội “mũ bảo hiểm cho người đi mô tô, xe máy” không cài quai đúng quy cách, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật.
+4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng[32] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h;
+b) Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định;
+c) Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm h khoản 3 Điều này;
+d) Vượt xe trong hầm đường bộ không đúng nơi quy định; quay đầu xe trong hầm đường bộ;
+đ)[33] (được bãi bỏ)
+e) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;
+g) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;
+h) Người đang điều khiển xe sử dụng ô (dù), điện thoại di động, thiết bị âm thanh, trừ thiết bị trợ thính.
+5.[34] Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”, trừ hành vi vi phạm quy định tại điểm b khoản 6 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;
+b) Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ.
+6. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy;
+b) Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+7. Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe chạy quá tốc độ quy định trên 20 km/h;
+b) Không chú ý quan sát, điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông; đi vào đường cao tốc, dừng xe, đỗ xe, quay đầu xe, lùi xe, tránh xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” gây tai nạn giao thông, trừ hành vi vi phạm quy định tại điểm d khoản 8 Điều này;
+c) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+8. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+b) Thực hiện hành vi quy định tại điểm b khoản 1 Điều này buộc phải bổ sung đầy đủ theo quy định trên tàu khách về: thiết bị, dụng cụ, vật liệu chữa cháy; thuốc sơ, cấp cứu; dụng cụ thoát hiểm; dụng cụ chèn tàu; dụng cụ, vật liệu để sửa chữa đơn giản; tín hiệu cầm tay;
+c) Thực hiện hành vi quy định tại điểm a khoản 3 Điều này buộc phải lắp đầy đủ theo đúng quy định hoặc thay thế thiết bị đủ tiêu chuẩn an toàn kỹ thuật hoặc khôi phục lại tính năng kỹ thuật của các thiết bị, gồm: đồng hồ báo tốc độ, thiết bị ghi tốc độ và các thông tin liên quan đến việc điều hành chạy tàu (hộp đen), thiết bị cảnh báo để lái tàu tỉnh táo trong khi lái tàu trên đầu máy, phương tiện động lực chuyên dùng;
+d) Thực hiện hành vi quy định tại điểm b khoản 3 Điều này buộc phải lắp đầy đủ theo đúng quy định hoặc thay thế thiết bị đủ tiêu chuẩn an toàn kỹ thuật hoặc khôi phục lại tính năng kỹ thuật của các thiết bị, gồm: thiết bị đo tốc độ tàu, thiết bị thông tin liên lạc giữa trưởng tàu và lái tàu tại vị trí làm việc của trưởng tàu.
+Mục 4. VI PHẠM QUY ĐỊNH ĐỐI VỚI NHÂN VIÊN ĐƯỜNG SẮT
+Điều 62. Xử phạt nhân viên đường sắt trực tiếp phục vụ chạy tàu vi phạm quy định về Giấy phép lái tàu, bằng, chứng chỉ chuyên môn
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người lái tàu thực hiện hành vi điều khiển phương tiện giao thông đường sắt mà không mang theo Giấy phép lái tàu hoặc sử dụng Giấy phép lái tàu quá hạn hoặc Giấy phép lái tàu không phù hợp với phương tiện điều khiển.
+2. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi sử dụng bằng, chứng chỉ chuyên môn giả, Giấy phép lái tàu giả hoặc không có Giấy phép lái tàu.
+3. Ngoài việc bị phạt tiền, cá nhân thực hiện hành vi vi phạm quy định tại khoản 2 Điều này còn bị áp dụng hình thức xử phạt bổ sung tịch thu bằng, chứng chỉ chuyên môn giả, Giấy phép lái tàu giả.
+Điều 63. Xử phạt nhân viên đường sắt trực tiếp phục vụ chạy tàu (trừ lái tàu và phụ lái tàu) vi phạm quy định về nồng độ cồn hoặc sử dụng các chất kích thích khác mà pháp luật cấm sử dụng
+1. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với hành vi khi làm nhiệm vụ mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+2. Phạt từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi khi làm nhiệm vụ mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+3. Phạt từ 6.000.000 đồng đến 8.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Khi làm nhiệm vụ mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+b) Không chấp hành yêu cầu kiểm tra về nồng độ cồn, chất kích thích khác mà pháp luật cấm sử dụng của người thi hành công vụ;
+c) Khi làm nhiệm vụ mà trong cơ thể có chất kích thích khác mà pháp luật cấm sử dụng.
+Điều 64. Xử phạt nhân viên đường sắt vi phạm quy định về bảo đảm an toàn giao thông đường sắt
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với nhân viên đường sắt có liên quan đến công tác chạy tàu, công tác phục vụ hành khách khi làm nhiệm vụ mà không mặc đồng phục, không đeo phù hiệu, cấp hiệu, biển chức danh theo đúng quy định.
+2. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Trưởng tàu để người đi, đứng, nằm, ngồi trên nóc toa xe, đu bám ngoài thành toa xe, đầu máy, chỗ nối hai đầu toa xe;
+b) Trưởng tàu hoặc lái tàu phụ trách đoàn tàu để người đi trên tàu hàng trái quy định;
+[110] Khoản này được sửa đổi theo quy định tại điểm p khoản 17 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[111] Khoản này được sửa đổi theo quy định tại điểm q khoản 17 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[112] Khoản này được sửa đổi theo quy định tại điểm r khoản 17 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[113] Khoản này được bổ sung theo quy định tại điểm s khoản 17 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[114] Điều này được sửa đổi theo quy định tại khoản 18 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[115] Khoản này được sửa đổi theo quy định tại điểm a khoản 19 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[116] Khoản này được sửa đổi theo quy định tại điểm b khoản 19 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[117] Điều này được sửa đổi theo quy định tại khoản 20 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[118] Điểm này được bổ sung theo quy định tại khoản 21 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[119] Điểm này được bổ sung theo quy định tại khoản 22 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[120] Cụm từ “200.000 đồng đến 400.000 đồng” được thay bằng cụm từ “300.000 đồng đến 400.000 đồng” theo quy định tại điểm i khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[38] Điểm này được sửa đổi theo quy định tại khoản 5 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022
+[39] Cụm từ “1.000.000 đồng đến 2.000.000 đồng” được thay bằng cụm từ “2.000.000 đồng đến 3.000.000 đồng” theo quy định tại điểm d khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[40] Cụm từ “200.000 đồng đến 300.000 đồng” được thay bằng cụm từ “300.000 đồng đến 400.000 đồng” theo quy định tại điểm k khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[41] Điểm này được bãi bỏ theo quy định tại điểm c khoản 36 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[42] Điểm này được bãi bỏ theo quy định tại điểm c khoản 36 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[43] Điểm này được bổ sung theo quy định tại khoản 6 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[44] Điểm này được bổ sung theo quy định tại khoản 6 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[45] Khoản này được bãi bỏ theo quy định tại điểm d khoản 36 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[46] Khoản này được sửa đổi theo quy định tại khoản 7 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[47] Cụm từ “điểm b khoản 6 Điều 33” được thay bằng cụm từ “điểm b khoản 5 Điều 33” theo quy định tại điểm h khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+[48] Cụm từ “tháo dỡ” được thay bằng cụm từ “phá dỡ” theo quy định tại điểm s khoản 34 Điều 2 của Nghị định số 123/2021/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải; giao thông đường bộ, đường sắt; hàng không dân dụng, có hiệu lực kể từ ngày 01 tháng 01 năm 2022.
+Điều 6. Xử phạt người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy vi phạm quy tắc giao thông đường bộ
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường, trừ các hành vi vi phạm quy định tại điểm c, điểm đ, điểm e, điểm h khoản 2; điểm a, điểm d, điểm g, điểm i, điểm m khoản 3[25]; điểm a, điểm b, điểm c, điểm d, điểm e khoản 4; khoản 5; điểm b khoản 6; điểm a, điểm b khoản 7; điểm d khoản 8 Điều này;
+b) Không có báo hiệu xin vượt trước khi vượt;
+c) Không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước hoặc không giữ khoảng cách theo quy định của biển báo hiệu “Cự ly tối thiểu giữa hai xe”;
+d) Chuyển hướng không nhường quyền đi trước cho: Người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ;
+đ) Chuyển hướng không nhường đường cho: Các xe đi ngược chiều; người đi bộ, xe lăn của người khuyết tật đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ;
+e) Lùi xe mô tô ba bánh không quan sát hoặc không có tín hiệu báo trước;
+g) Chở người ngồi trên xe sử dụng ô (dù);
+h) Không tuân thủ các quy định về nhường đường tại nơi đường giao nhau, trừ các hành vi vi phạm quy định tại điểm b, điểm e khoản 2 Điều này;
+i) Chuyển làn đường không đúng nơi được phép hoặc không có tín hiệu báo trước;
+k) Điều khiển xe chạy dàn hàng ngang từ 03 xe trở lên;
+l) Không sử dụng đèn chiếu sáng trong thời gian từ 19 giờ ngày hôm trước đến 05 giờ ngày hôm sau hoặc khi sương mù, thời tiết xấu hạn chế tầm nhìn;
+m) Tránh xe không đúng quy định; sử dụng đèn chiếu xa khi tránh xe đi ngược chiều; không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật;
+n) Bấm còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau, sử dụng đèn chiếu xa trong đô thị, khu đông dân cư, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định;
+o) Xe được quyền ưu tiên lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định hoặc sử dụng thiết bị phát tín hiệu ưu tiên mà không có Giấy phép của cơ quan có thẩm quyền cấp hoặc có Giấy phép của cơ quan có thẩm quyền cấp nhưng không còn giá trị sử dụng theo quy định;
+p) Quay đầu xe tại nơi không được quay đầu xe, trừ hành vi vi phạm quy định tại điểm d khoản 4 Điều này;
+q) Điều khiển xe chạy dưới tốc độ tối thiểu trên những đoạn đường bộ có quy định tốc độ tối thiểu cho phép.
+2. Phạt tiền từ 300.000 đồng đến 400.000 đồng[26] đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:
+a) Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường;
+b) Không giảm tốc độ và nhường đường khi điều khiển xe chạy từ trong ngõ, đường nhánh ra đường chính;
+c) Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h;
+d) Điều khiển xe chạy tốc độ thấp mà không đi bên phải phần đường xe chạy gây cản trở giao thông;
+đ) Dừng xe, đỗ xe ở lòng đường đô thị gây cản trở giao thông; tụ tập từ 03 xe trở lên ở lòng đường, trong hầm đường bộ; đỗ, để xe ở lòng đường đô thị, hè phố trái quy định của pháp luật;
+e) Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn; không nhường đường cho xe đi trên đường ưu tiên, đường chính từ bất kỳ hướng nào tới tại nơi đường giao nhau;
+b) Đưa phương tiện không có Giấy đăng ký xe tham gia giao thông hoặc có nhưng đã hết hạn sử dụng; đưa phương tiện có Giấy chứng nhận đăng ký xe tạm thời, phương tiện có phạm vi hoạt động hạn chế tham gia giao thông quá thời hạn, tuyến đường, phạm vi cho phép.
+11. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với cá nhân, từ 32.000.000 đồng đến 36.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô khi giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 7 Điều 24 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 7 Điều 24 Nghị định này.
+12.[109] Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng đối với cá nhân, từ 36.000.000 đồng đến 40.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a, điểm b khoản 8 Điều 24 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a, điểm b khoản 8 Điều 24 Nghị định này; 
+b) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 2 Điều 25 Nghị định này;
+c) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 3 Điều 33 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại khoản 3 Điều 33 Nghị định này.
+13.[110] Phạt tiền từ 28.000.000 đồng đến 32.000.000 đồng đối với cá nhân, từ 56.000.000 đồng đến 64.000.000 đồng đối với tổ chức là chủ xe ô tô, máy kéo, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:
+a) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 3 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 3 Điều 25 Nghị định này; 
+b) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 3 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 3 Điều 25 Nghị định này; 
+c) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c khoản 3 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c khoản 3 Điều 25 Nghị định này; 
+d) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm d khoản 3 Điều 25 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm d khoản 3 Điều 25 Nghị định này;
+đ) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 4 Điều 33 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm a khoản 4 Điều 33 Nghị định này;
+e) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 4 Điều 33 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm b khoản 4 Điều 33 Nghị định này;
+g) Giao phương tiện hoặc để cho người làm công, người đại diện điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c khoản 4 Điều 33 Nghị định này hoặc trực tiếp điều khiển phương tiện thực hiện hành vi vi phạm quy định tại điểm c khoản 4 Điều 33 Nghị định này
+Điều 66. Xử phạt đối với lái tàu, phụ lái tàu, người trực tiếp điều khiển phương tiện giao thông đường sắt phục vụ dây chuyền công nghệ của doanh nghiệp [137] 
+1. Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phụ lái tàu không thực hiện đúng chế độ hô đáp, không giám sát tốc độ chạy tàu, không quan sát tín hiệu, biển báo, biển hiệu để báo cho lái tàu theo quy định.
+2. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với lái tàu thực hiện một trong các hành vi vi phạm sau đây:
+a) Rời vị trí lái máy khi đầu máy đang hoạt động;
+b) Chở người không có trách nhiệm hoặc chở hàng hóa trên đầu máy;
+c) Làm mất tác dụng của thiết bị cảnh báo để lái tàu tỉnh táo trong khi lái tàu;
+d) Không chấp hành hiệu lệnh hoặc chỉ dẫn của tín hiệu, biển hiệu, của người chỉ huy chạy tàu;
+đ) Không có hoặc có không đầy đủ cờ, đèn tín hiệu, pháo, chèn trên đầu máy khi lên ban theo quy định.
+3. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với lái tàu, người trực tiếp điều khiển phương tiện giao thông đường sắt phục vụ dây chuyền công nghệ của doanh nghiệp thực hiện một trong các hành vi vi phạm sau đây[138]:
+a) Dừng tàu không đúng quy định mà không có lý do chính đáng;
+b) Điều khiển tàu chạy vượt quá tín hiệu ngừng;
+c)[139] Điều khiển tàu, phương tiện giao thông đường sắt phục vụ dây chuyền công nghệ của doanh nghiệp chạy quá tốc độ quy định của Công lệnh tốc độ đến 10 km/h.
+4.[140] Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với lái tàu, người trực tiếp điều khiển phương tiện giao thông đường sắt phục vụ dây chuyền công nghệ của doanh nghiệp điều khiển tàu, phương tiện giao thông đường sắt phục vụ dây chuyền công nghệ của doanh nghiệp chạy quá tốc độ quy định của Công lệnh tốc độ trên 10 km/h đến 20 km/h.
+5. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với lái tàu, người trực tiếp điều khiển phương tiện giao thông đường sắt phục vụ dây chuyền công nghệ của doanh nghiệp thực hiện một trong các hành vi vi phạm sau đây[141]:
+a)[142] Điều khiển tàu, phương tiện giao thông đường sắt phục vụ dây chuyền công nghệ của doanh nghiệp chạy quá tốc độ quy định của Công lệnh tốc độ trên 20 km/h;
+b) Khi làm nhiệm vụ mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở.
+6. Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng đối với hành vi khi làm nhiệm vụ mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.
+7. Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Khi làm nhiệm vụ mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;
+b) Không chấp hành yêu cầu kiểm tra về nồng độ cồn, chất kích thích khác mà pháp luật cấm sử dụng của người thi hành công vụ;
+c) Khi làm nhiệm vụ mà trong cơ thể có chất kích thích khác mà pháp luật cấm sử dụng.
+8. Ngoài việc bị phạt tiền, cá nhân thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại khoản 3, khoản 4 Điều này bị tước quyền sử dụng Giấy phép lái tàu từ 01 tháng đến 03 tháng;
+b) Thực hiện hành vi quy định tại khoản 5 Điều này bị tước quyền sử dụng Giấy phép lái tàu từ 03 tháng đến 05 tháng;
+c) Thực hiện hành vi quy định tại khoản 6 Điều này bị tước quyền sử dụng Giấy phép lái tàu từ 10 tháng đến 12 tháng;
+d) Thực hiện hành vi quy định tại khoản 7 Điều này bị tước quyền sử dụng Giấy phép lái tàu từ 22 tháng đến 24 tháng.
+4. Ngoài việc bị phạt tiền, người lái tàu thực hiện hành vi vi phạm quy định tại điểm b, điểm c, điểm d khoản 3 Điều này còn bị áp dụng hình thức xử phạt bổ sung tước quyền sử dụng Giấy phép lái tàu từ 01 tháng đến 03 tháng.
+Điều 45. Xử phạt các hành vi vi phạm quy định về xây dựng, công bố công lệnh tải trọng, công lệnh tốc độ, biểu đồ chạy tàu
+1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với doanh nghiệp kinh doanh vận tải đường sắt không công bố hoặc công bố không đầy đủ nội dung biểu đồ chạy tàu theo quy định.
+2. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt quốc gia thực hiện một trong các hành vi sau đây:
+a) Không công bố hoặc công bố không đầy đủ nội dung biểu đồ chạy tàu trên phương tiện thông tin đại chúng, trên trang thông tin điện tử của doanh nghiệp theo quy định;
+b) Không công bố công khai công lệnh tải trọng, công lệnh tốc độ trên trang thông tin điện tử của doanh nghiệp theo quy định.
+3. Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt quốc gia thực hiện hành vi không xây dựng hoặc có xây dựng nhưng không đủ nội dung công lệnh tải trọng, công lệnh tốc độ, biểu đồ chạy tàu theo quy định.
+Điều 46. Xử phạt các hành vi vi phạm quy định về điều độ chạy tàu
+1. Phạt tiền từ 300.000 đồng đến 400.000 đồng[124] đối với nhân viên điều độ chạy tàu không kiểm tra các ga về việc thi hành biểu đồ chạy tàu và kế hoạch lập tàu.
+2. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với nhân viên điều độ chạy tàu tuyến thực hiện một trong các hành vi vi phạm sau đây:
+a) Phát mệnh lệnh liên quan đến chạy tàu không đúng thẩm quyền;
+b) Không phát lệnh cho trực ban chạy tàu ga cấp cảnh báo kịp thời cho lái tàu;
+c) Không phát lệnh phong tỏa khu gian theo quy định để: Tổ chức thi công, sửa chữa kết cấu hạ tầng đường sắt; tổ chức chạy tàu cứu viện, tàu công trình vào khu gian cần phải phong tỏa;
+d) Không kịp thời phát các mệnh lệnh thuộc thẩm quyền quy định gây chậm tàu, ách tắc giao thông.
+3. Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với trực ban chạy tàu ga không cấp cảnh báo cho lái tàu, trưởng tàu theo quy định.
+Điều 47. Xử phạt các hành vi vi phạm quy định về quy tắc giao thông tại đường ngang, cầu chung, hầm đường sắt
+1. Phạt tiền từ 60.000 đồng đến 100.000 đồng đối với người đi bộ vượt rào chắn đường ngang, cầu chung khi chắn đang dịch chuyển hoặc đã đóng; vượt qua đường ngang khi đèn đỏ đã bật sáng; không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường hoặc hướng dẫn của nhân viên gác đường ngang, cầu chung, hầm khi đi qua đường ngang, cầu chung, hầm.
+2. Phạt tiền từ 80.000 đồng đến 100.000 đồng đối với người điều khiển xe đạp, xe đạp máy, người điều khiển xe thô sơ không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường khi đi qua đường ngang, cầu chung.
+3. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe đạp, xe đạp máy, người điều khiển xe thô sơ dừng xe, đỗ xe trong phạm vi an toàn đường ngang, cầu chung; vượt rào chắn đường ngang, cầu chung khi chắn đang dịch chuyển; vượt đường ngang, cầu chung khi đèn đỏ đã bật sáng; không chấp hành hiệu lệnh, chỉ dẫn của nhân viên gác đường ngang, cầu chung khi đi qua đường ngang, cầu chung.
+4. Phạt tiền từ 300.000 đồng đến 400.000 đồng [125] đối với người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy dừng xe, đỗ xe trong phạm vi an toàn đường ngang, cầu chung; không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường khi đi qua đường ngang, cầu chung.
+a) Điều khiển xe không có Giấy đăng ký xe theo quy định hoặc sử dụng Giấy đăng ký xe đã hết hạn sử dụng (kể cả rơ moóc và sơ mi rơ moóc);
+b) Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) không gắn biển số (đối với loại xe có quy định phải gắn biển số);
+c) Điều khiển xe ô tô tải (kể cả rơ moóc và sơ mi rơ moóc) có kích thước thùng xe không đúng với thông số kỹ thuật được ghi trong Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe;
+d) Điều khiển xe lắp đặt, sử dụng còi vượt quá âm lượng theo quy định.
+5. Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe có Giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường nhưng đã hết hạn sử dụng dưới 01 tháng (kể cả rơ moóc và sơ mi rơ moóc);
+b) Điều khiển xe không đủ hệ thống hãm hoặc có đủ hệ thống hãm nhưng không có tác dụng, không đúng tiêu chuẩn an toàn kỹ thuật (kể cả rơ moóc và sơ mi rơ moóc). 
+6. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe gắn biển số không đúng với Giấy đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp (kể cả rơ moóc và sơ mi rơ moóc);
+b) Sử dụng Giấy đăng ký xe, Giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường không do cơ quan có thẩm quyền cấp hoặc bị tẩy xóa; sử dụng Giấy đăng ký xe không đúng số khung, số máy của xe (kể cả rơ moóc và sơ mi rơ moóc);
+c) Điều khiển xe không có Giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định, trừ xe đăng ký tạm thời) hoặc có nhưng đã hết hạn sử dụng từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc);
+d) Điều khiển xe không gắn đủ biển số hoặc gắn biển số không đúng vị trí; gắn biển số không rõ chữ, số; gắn biển số bị bẻ cong, bị che lấp, bị hỏng; sơn, dán thêm làm thay đổi chữ, số hoặc thay đổi màu sắc của chữ, số, nền biển (kể cả rơ moóc và sơ mi rơ moóc).
+7. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+a) Điều khiển xe đăng ký tạm, xe có phạm vi hoạt động hạn chế hoạt động quá phạm vi, thời hạn cho phép;
+b) Điều khiển xe (kể cả rơ moóc và sơ mi rơ moóc) quá niên hạn sử dụng tham gia giao thông (đối với loại xe có quy định về niên hạn sử dụng);
+c) Điều khiển loại xe sản xuất, lắp ráp trái quy định tham gia giao thông (bao gồm cả xe công nông thuộc diện bị đình chỉ tham gia giao thông, rơ moóc và sơ mi rơ moóc được kéo theo).
+8. Ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây:
+a) Thực hiện hành vi quy định tại điểm a, điểm b khoản 3; khoản 4; khoản 5; điểm c khoản 6; điểm a khoản 7 Điều này bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+b) Thực hiện hành vi quy định tại điểm a khoản 3, điểm d khoản 4 Điều này bị tịch thu đèn lắp thêm, còi vượt quá âm lượng;
+c) Thực hiện hành vi quy định tại điểm a, điểm b khoản 6 Điều này bị tịch thu Giấy chứng nhận, tem kiểm định an toàn kỹ thuật và bảo vệ môi trường, Giấy đăng ký xe, biển số không đúng quy định hoặc bị tẩy xóa; bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng;
+
+Now here is the question you need to answer.
+
+Question: vi phạm nồng độ cồn bị phạt bao nhiêu tiền? 
+
+
+#answer:
+
+
+ Dựa trên thông tin trong văn bản, mức phạt tiền đối với vi phạm nồng độ cồn được quy định như sau:
+
+1. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở:
+- Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng (Điểm c, Khoản 8, Điều 5).
+
+2. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở:
+- Phạt tiền từ 16.000.000 đồng đến 18.000.000 đồng (Điểm e, Khoản 8, Điều 5).
+
+3. Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở và gây tai nạn giao thông hoặc không chấp hành hiệu lệnh dừng xe của người thi hành công vụ:
+- Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng (Khoản 9, Điều 5).
